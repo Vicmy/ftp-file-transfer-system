@@ -1,5 +1,5 @@
 #!/bin/bash
-# 并发下载测试（绝对路径版）
+# 并发下载测试（绝对路径）
 
 PROJECT_ROOT="$(cd "$(dirname "$0")" && pwd)"
 CLIENT="$PROJECT_ROOT/bin/client"
@@ -64,18 +64,18 @@ concurrent_download() {
         local downloaded="$TEST_DIR/file_$i.dat"
         local server_file="$PROJECT_ROOT/server_files/file_$i.dat"
         if [ ! -f "$downloaded" ]; then
-            echo -e "${RED}❌ 文件 file_$i.dat 未下载到本地${NC}"
+            echo -e "${RED} 文件 file_$i.dat 未下载到本地${NC}"
             fail=1
         elif ! cmp -s "$server_file" "$downloaded"; then
-            echo -e "${RED}❌ 文件 file_$i.dat 内容不一致${NC}"
+            echo -e "${RED} 文件 file_$i.dat 内容不一致${NC}"
             fail=1
         fi
     done
 
     if [ $fail -eq 0 ]; then
-        echo -e "${GREEN}✅ 并发下载测试通过${NC}"
+        echo -e "${GREEN} 并发下载测试通过${NC}"
     else
-        echo -e "${RED}❌ 并发下载测试失败${NC}"
+        echo -e "${RED} 并发下载测试失败${NC}"
     fi
     return $fail
 }

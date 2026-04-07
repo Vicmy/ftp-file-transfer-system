@@ -16,9 +16,9 @@ fi
 
 # 1. 并发上传测试
 echo -e "\n[1/4] 运行并发上传测试..."
-./concurrent_upload_fixed.sh
+./concurrent_upload_test.sh
 if [ $? -ne 0 ]; then
-    echo "❌ 并发上传测试失败，停止后续测试"
+    echo " 并发上传测试失败，停止后续测试"
     exit 1
 fi
 
@@ -26,7 +26,7 @@ fi
 echo -e "\n[2/4] 运行并发下载测试..."
 ./concurrent_download_test.sh
 if [ $? -ne 0 ]; then
-    echo "❌ 并发下载测试失败，停止后续测试"
+    echo " 并发下载测试失败，停止后续测试"
     exit 1
 fi
 
@@ -34,7 +34,7 @@ fi
 echo -e "\n[3/4] 运行混合并发测试..."
 ./concurrent_mixed_test.sh
 if [ $? -ne 0 ]; then
-    echo "❌ 混合并发测试失败，停止后续测试"
+    echo " 混合并发测试失败，停止后续测试"
     exit 1
 fi
 
@@ -42,10 +42,11 @@ fi
 echo -e "\n[4/4] 运行相同文件锁测试..."
 ./concurrent_same_file_test.sh
 if [ $? -ne 0 ]; then
-    echo "❌ 相同文件锁测试失败"
+    echo " 相同文件锁测试失败"
     exit 1
 fi
 
+
 echo -e "\n========================================="
-echo "  🎉 所有并发测试全部通过！"
+echo "   所有并发测试全部通过！"
 echo "========================================="

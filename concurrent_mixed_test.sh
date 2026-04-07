@@ -1,12 +1,13 @@
 #!/bin/bash
-# 混合并发测试（绝对路径版）
+# 混合并发测试（绝对路径）
 
 PROJECT_ROOT="$(cd "$(dirname "$0")" && pwd)"
 CLIENT="$PROJECT_ROOT/bin/client"
 UPLOAD_THREADS=5
 DOWNLOAD_THREADS=5
 FILE_SIZE_MB=5
-TEST_DIR="$PROJECT_ROOT/mixed_test_$(date +%s)"
+TEST_DIR="$PROJECT_ROOT/mixed_test_files"
+#TEST_DIR="$PROJECT_ROOT/mixed_test_$(date +%s)"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
@@ -72,13 +73,13 @@ mixed_concurrent() {
         local server_file="$PROJECT_ROOT/server_files/up_$i.dat"
         local local_file="$TEST_DIR/up_$i.dat"
         if [ ! -f "$server_file" ]; then
-            echo -e "${RED}❌ 上传文件 up_$i.dat 未收到${NC}"
+            echo -e "${RED} 上传文件 up_$i.dat 未收到${NC}"
             upload_fail=1
         else
             local local_size=$(stat -c%s "$local_file" 2>/dev/null || stat -f%z "$local_file" 2>/dev/null)
             local server_size=$(stat -c%s "$server_file" 2>/dev/null || stat -f%z "$server_file" 2>/dev/null)
             if [ "$local_size" -ne "$server_size" ]; then
-                echo -e "${RED}❌ 上传文件 up_$i.dat 大小不匹配${NC}"
+                echo -e "${RED} 上传文件 up_$i.dat 大小不匹配${NC}"
                 upload_fail=1
             fi
         fi
@@ -89,19 +90,19 @@ mixed_concurrent() {
         local downloaded="$TEST_DIR/down_$i.dat"
         local server_file="$PROJECT_ROOT/server_files/down_$i.dat"
         if [ ! -f "$downloaded" ]; then
-            echo -e "${RED}❌ 下载文件 down_$i.dat 未下载到本地${NC}"
+            echo -e "${RED} 下载文件 down_$i.dat 未下载到本地${NC}"
             download_fail=1
         elif ! cmp -s "$server_file" "$downloaded"; then
-            echo -e "${RED}❌ 下载文件 down_$i.dat 内容不一致${NC}"
+            echo -e "${RED} 下载文件 down_$i.dat 内容不一致${NC}"
             download_fail=1
         fi
     done
 
     if [ $upload_fail -eq 0 ] && [ $download_fail -eq 0 ]; then
-        echo -e "${GREEN}✅ 混合并发测试通过${NC}"
+        echo -e "${GREEN} 混合并发测试通过${NC}"
         return 0
     else
-        echo -e "${RED}❌ 混合并发测试失败${NC}"
+        echo -e "${RED} 混合并发测试失败${NC}"
         return 1
     fi
 }

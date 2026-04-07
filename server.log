@@ -794,3 +794,1824 @@
 [2026-04-04 17:37:14] [INFO] Download from 127.0.0.1:41898: resume_test.dat, offset=2097152
 [2026-04-04 17:37:14] [INFO] Download from 127.0.0.1:41898 finished, sent 10485760 bytes
 [2026-04-04 17:37:14] [INFO] Client 127.0.0.1:41898 disconnected
+[2026-04-07 13:56:36] [INFO] Server listening on port 8888
+[2026-04-07 13:57:04] [INFO] Client 127.0.0.1:52898 connected
+[2026-04-07 13:57:04] [INFO] Upload from 127.0.0.1:52898: resume_test.dat, size=10485760, offset=0
+[2026-04-07 13:57:04] [INFO] Upload from 127.0.0.1:52898 finished, received 10485760 bytes
+[2026-04-07 13:57:04] [INFO] Client 127.0.0.1:52898 disconnected
+[2026-04-07 13:57:05] [INFO] Client 127.0.0.1:52904 connected
+[2026-04-07 13:57:05] [INFO] Upload from 127.0.0.1:52904: resume_test.dat, size=10485760, offset=3145728
+[2026-04-07 13:57:05] [INFO] Upload from 127.0.0.1:52904 finished, received 10485760 bytes
+[2026-04-07 13:57:05] [INFO] Client 127.0.0.1:52904 disconnected
+[2026-04-07 13:57:06] [INFO] Client 127.0.0.1:52906 connected
+[2026-04-07 13:57:06] [INFO] Client 127.0.0.1:52906 disconnected
+[2026-04-07 13:57:06] [INFO] Client 127.0.0.1:52920 connected
+[2026-04-07 13:57:06] [INFO] Download from 127.0.0.1:52920: resume_test.dat, offset=10485760
+[2026-04-07 13:57:06] [INFO] Download from 127.0.0.1:52920 finished, sent 10485760 bytes
+[2026-04-07 13:57:06] [INFO] Client 127.0.0.1:52920 disconnected
+[2026-04-07 13:57:06] [INFO] Client 127.0.0.1:52936 connected
+[2026-04-07 13:57:06] [INFO] Download from 127.0.0.1:52936: resume_test.dat, offset=2097152
+[2026-04-07 13:57:06] [INFO] Download from 127.0.0.1:52936 finished, sent 10485760 bytes
+[2026-04-07 13:57:06] [INFO] Client 127.0.0.1:52936 disconnected
+[2026-04-07 14:02:33] [INFO] Server listening on port 8888
+[2026-04-07 14:03:05] [INFO] Client 127.0.0.1:33586 connected
+[2026-04-07 14:03:05] [INFO] Upload from 127.0.0.1:33586: resume_test.dat, size=10485760, offset=0
+[2026-04-07 14:03:05] [INFO] Upload from 127.0.0.1:33586 finished, received 10485760 bytes
+[2026-04-07 14:03:05] [INFO] Client 127.0.0.1:33586 disconnected
+[2026-04-07 14:03:06] [INFO] Client 127.0.0.1:33600 connected
+[2026-04-07 14:03:06] [INFO] Upload from 127.0.0.1:33600: resume_test.dat, size=10485760, offset=3145728
+[2026-04-07 14:03:06] [INFO] Upload from 127.0.0.1:33600 finished, received 10485760 bytes
+[2026-04-07 14:03:06] [INFO] Client 127.0.0.1:33600 disconnected
+[2026-04-07 14:03:07] [INFO] Client 127.0.0.1:33614 connected
+[2026-04-07 14:03:07] [INFO] Client 127.0.0.1:33614 disconnected
+[2026-04-07 14:03:07] [INFO] Client 127.0.0.1:33626 connected
+[2026-04-07 14:03:07] [INFO] Download from 127.0.0.1:33626: resume_test.dat, offset=10485760
+[2026-04-07 14:03:07] [INFO] Download from 127.0.0.1:33626 finished, sent 10485760 bytes
+[2026-04-07 14:03:07] [INFO] Client 127.0.0.1:33626 disconnected
+[2026-04-07 14:03:07] [INFO] Client 127.0.0.1:33640 connected
+[2026-04-07 14:03:07] [INFO] Download from 127.0.0.1:33640: resume_test.dat, offset=2097152
+[2026-04-07 14:03:07] [INFO] Download from 127.0.0.1:33640 finished, sent 10485760 bytes
+[2026-04-07 14:03:07] [INFO] Client 127.0.0.1:33640 disconnected
+[2026-04-07 16:11:10] [INFO] Server listening on port 8888
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48664 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48664: file_5.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48666 connected
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48672 connected
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48684 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48666: file_6.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48698 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48684: file_4.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48672: file_2.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48710 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48698: file_1.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48714 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48714: file_3.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48710: file_7.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48724 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48724: file_8.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48732 connected
+[2026-04-07 16:11:57] [INFO] Client 127.0.0.1:48734 connected
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48734: file_9.dat, size=5242880, offset=0
+[2026-04-07 16:11:57] [INFO] Upload from 127.0.0.1:48732: file_10.dat, size=5242880, offset=0
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48684 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48684 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48710 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48710 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48734 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48734 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48714 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48714 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48664 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48664 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48666 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48666 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48672 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48672 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48698 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48698 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48724 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48724 disconnected
+[2026-04-07 16:11:59] [INFO] Upload from 127.0.0.1:48732 finished, received 5242880 bytes
+[2026-04-07 16:11:59] [INFO] Client 127.0.0.1:48732 disconnected
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49324 connected
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49324: file_5.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49328 connected
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49328: file_4.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49342 connected
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49352 connected
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49358 connected
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49360 connected
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49358: file_7.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49360: file_3.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49352: file_2.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49368 connected
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49342: file_8.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49376 connected
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49382 connected
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49376: file_6.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49368: file_1.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Client 127.0.0.1:49388 connected
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49388: file_10.dat, size=5242880, offset=0
+[2026-04-07 16:15:55] [INFO] Upload from 127.0.0.1:49382: file_9.dat, size=5242880, offset=0
+[2026-04-07 16:15:56] [INFO] Upload from 127.0.0.1:49324 finished, received 5242880 bytes
+[2026-04-07 16:15:56] [INFO] Client 127.0.0.1:49324 disconnected
+[2026-04-07 16:15:56] [INFO] Upload from 127.0.0.1:49352 finished, received 5242880 bytes
+[2026-04-07 16:15:56] [INFO] Client 127.0.0.1:49352 disconnected
+[2026-04-07 16:15:56] [INFO] Upload from 127.0.0.1:49376 finished, received 5242880 bytes
+[2026-04-07 16:15:56] [INFO] Client 127.0.0.1:49376 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49328 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49328 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49382 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49382 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49358 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49358 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49388 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49388 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49360 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49360 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49342 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49342 disconnected
+[2026-04-07 16:15:57] [INFO] Upload from 127.0.0.1:49368 finished, received 5242880 bytes
+[2026-04-07 16:15:57] [INFO] Client 127.0.0.1:49368 disconnected
+[2026-04-07 16:25:07] [INFO] Server listening on port 8888
+[2026-04-07 16:25:59] [INFO] Client 127.0.0.1:43320 connected
+[2026-04-07 16:25:59] [INFO] Upload from 127.0.0.1:43320: file_1.dat, size=5242880, offset=0
+[2026-04-07 16:25:59] [INFO] Upload from 127.0.0.1:43320 finished, received 5242880 bytes
+[2026-04-07 16:25:59] [INFO] Client 127.0.0.1:43320 disconnected
+[2026-04-07 16:26:00] [INFO] Client 127.0.0.1:43328 connected
+[2026-04-07 16:26:00] [INFO] Upload from 127.0.0.1:43328: file_2.dat, size=5242880, offset=0
+[2026-04-07 16:26:00] [INFO] Upload from 127.0.0.1:43328 finished, received 5242880 bytes
+[2026-04-07 16:26:00] [INFO] Client 127.0.0.1:43328 disconnected
+[2026-04-07 16:26:01] [INFO] Client 127.0.0.1:43340 connected
+[2026-04-07 16:26:01] [INFO] Upload from 127.0.0.1:43340: file_3.dat, size=5242880, offset=0
+[2026-04-07 16:26:02] [INFO] Upload from 127.0.0.1:43340 finished, received 5242880 bytes
+[2026-04-07 16:26:02] [INFO] Client 127.0.0.1:43340 disconnected
+[2026-04-07 16:26:03] [INFO] Client 127.0.0.1:55990 connected
+[2026-04-07 16:26:03] [INFO] Upload from 127.0.0.1:55990: file_4.dat, size=5242880, offset=0
+[2026-04-07 16:26:03] [INFO] Upload from 127.0.0.1:55990 finished, received 5242880 bytes
+[2026-04-07 16:26:03] [INFO] Client 127.0.0.1:55990 disconnected
+[2026-04-07 16:26:04] [INFO] Client 127.0.0.1:56004 connected
+[2026-04-07 16:26:04] [INFO] Upload from 127.0.0.1:56004: file_5.dat, size=5242880, offset=0
+[2026-04-07 16:26:05] [INFO] Upload from 127.0.0.1:56004 finished, received 5242880 bytes
+[2026-04-07 16:26:05] [INFO] Client 127.0.0.1:56004 disconnected
+[2026-04-07 16:26:06] [INFO] Client 127.0.0.1:56018 connected
+[2026-04-07 16:26:06] [INFO] Upload from 127.0.0.1:56018: file_6.dat, size=5242880, offset=0
+[2026-04-07 16:26:06] [INFO] Upload from 127.0.0.1:56018 finished, received 5242880 bytes
+[2026-04-07 16:26:06] [INFO] Client 127.0.0.1:56018 disconnected
+[2026-04-07 16:26:07] [INFO] Client 127.0.0.1:56030 connected
+[2026-04-07 16:26:07] [INFO] Upload from 127.0.0.1:56030: file_7.dat, size=5242880, offset=0
+[2026-04-07 16:26:07] [INFO] Upload from 127.0.0.1:56030 finished, received 5242880 bytes
+[2026-04-07 16:26:07] [INFO] Client 127.0.0.1:56030 disconnected
+[2026-04-07 16:26:08] [INFO] Client 127.0.0.1:56042 connected
+[2026-04-07 16:26:08] [INFO] Upload from 127.0.0.1:56042: file_8.dat, size=5242880, offset=0
+[2026-04-07 16:26:09] [INFO] Upload from 127.0.0.1:56042 finished, received 5242880 bytes
+[2026-04-07 16:26:09] [INFO] Client 127.0.0.1:56042 disconnected
+[2026-04-07 16:26:10] [INFO] Client 127.0.0.1:56048 connected
+[2026-04-07 16:26:10] [INFO] Upload from 127.0.0.1:56048: file_9.dat, size=5242880, offset=0
+[2026-04-07 16:26:10] [INFO] Upload from 127.0.0.1:56048 finished, received 5242880 bytes
+[2026-04-07 16:26:10] [INFO] Client 127.0.0.1:56048 disconnected
+[2026-04-07 16:26:11] [INFO] Client 127.0.0.1:56052 connected
+[2026-04-07 16:26:11] [INFO] Upload from 127.0.0.1:56052: file_10.dat, size=5242880, offset=0
+[2026-04-07 16:26:11] [INFO] Upload from 127.0.0.1:56052 finished, received 5242880 bytes
+[2026-04-07 16:26:11] [INFO] Client 127.0.0.1:56052 disconnected
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59144 connected
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59146 connected
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59150 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59144: file_1.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59150: file_4.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59146: file_6.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59162 connected
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59176 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59176: file_5.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59182 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59182: file_8.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59190 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59190: file_7.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59162: file_3.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59196 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59196: file_2.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59204 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59204: file_9.dat, offset=0
+[2026-04-07 16:26:13] [INFO] Client 127.0.0.1:59210 connected
+[2026-04-07 16:26:13] [INFO] Download from 127.0.0.1:59210: file_10.dat, offset=0
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59146 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59146 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59144 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59144 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59162 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59162 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59182 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59182 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59150 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59150 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59210 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59210 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59204 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59204 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59176 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59176 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59190 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59190 disconnected
+[2026-04-07 16:26:14] [INFO] Download from 127.0.0.1:59196 finished, sent 5242880 bytes
+[2026-04-07 16:26:14] [INFO] Client 127.0.0.1:59196 disconnected
+[2026-04-07 16:39:05] [INFO] Server listening on port 8888
+[2026-04-07 16:39:39] [INFO] Client 127.0.0.1:60626 connected
+[2026-04-07 16:39:39] [INFO] Upload from 127.0.0.1:60626: down_1.dat, size=5242880, offset=0
+[2026-04-07 16:39:40] [INFO] Upload from 127.0.0.1:60626 finished, received 5242880 bytes
+[2026-04-07 16:39:40] [INFO] Client 127.0.0.1:60626 disconnected
+[2026-04-07 16:39:41] [INFO] Client 127.0.0.1:60634 connected
+[2026-04-07 16:39:41] [INFO] Upload from 127.0.0.1:60634: down_2.dat, size=5242880, offset=0
+[2026-04-07 16:39:41] [INFO] Upload from 127.0.0.1:60634 finished, received 5242880 bytes
+[2026-04-07 16:39:41] [INFO] Client 127.0.0.1:60634 disconnected
+[2026-04-07 16:39:42] [INFO] Client 127.0.0.1:42682 connected
+[2026-04-07 16:39:42] [INFO] Upload from 127.0.0.1:42682: down_3.dat, size=5242880, offset=0
+[2026-04-07 16:39:42] [INFO] Upload from 127.0.0.1:42682 finished, received 5242880 bytes
+[2026-04-07 16:39:42] [INFO] Client 127.0.0.1:42682 disconnected
+[2026-04-07 16:39:43] [INFO] Client 127.0.0.1:42692 connected
+[2026-04-07 16:39:43] [INFO] Upload from 127.0.0.1:42692: down_4.dat, size=5242880, offset=0
+[2026-04-07 16:39:44] [INFO] Upload from 127.0.0.1:42692 finished, received 5242880 bytes
+[2026-04-07 16:39:44] [INFO] Client 127.0.0.1:42692 disconnected
+[2026-04-07 16:39:45] [INFO] Client 127.0.0.1:42700 connected
+[2026-04-07 16:39:45] [INFO] Upload from 127.0.0.1:42700: down_5.dat, size=5242880, offset=0
+[2026-04-07 16:39:45] [INFO] Upload from 127.0.0.1:42700 finished, received 5242880 bytes
+[2026-04-07 16:39:45] [INFO] Client 127.0.0.1:42700 disconnected
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42702 connected
+[2026-04-07 16:39:46] [INFO] Upload from 127.0.0.1:42702: up_3.dat, size=5242880, offset=0
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42718 connected
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42732 connected
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42746 connected
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42758 connected
+[2026-04-07 16:39:46] [INFO] Upload from 127.0.0.1:42718: up_4.dat, size=5242880, offset=0
+[2026-04-07 16:39:46] [INFO] Upload from 127.0.0.1:42758: up_5.dat, size=5242880, offset=0
+[2026-04-07 16:39:46] [INFO] Upload from 127.0.0.1:42746: up_1.dat, size=5242880, offset=0
+[2026-04-07 16:39:46] [INFO] Upload from 127.0.0.1:42732: up_2.dat, size=5242880, offset=0
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42760 connected
+[2026-04-07 16:39:46] [INFO] Download from 127.0.0.1:42760: down_5.dat, offset=0
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42774 connected
+[2026-04-07 16:39:46] [INFO] Client 127.0.0.1:42762 connected
+[2026-04-07 16:39:46] [INFO] Download from 127.0.0.1:42762: down_3.dat, offset=0
+[2026-04-07 16:39:46] [INFO] Download from 127.0.0.1:42774: down_1.dat, offset=0
+[2026-04-07 16:39:47] [INFO] Client 127.0.0.1:42778 connected
+[2026-04-07 16:39:47] [INFO] Download from 127.0.0.1:42778: down_4.dat, offset=0
+[2026-04-07 16:39:47] [INFO] Client 127.0.0.1:42784 connected
+[2026-04-07 16:39:47] [INFO] Download from 127.0.0.1:42784: down_2.dat, offset=0
+[2026-04-07 16:39:47] [INFO] Download from 127.0.0.1:42784 finished, sent 5242880 bytes
+[2026-04-07 16:39:47] [INFO] Client 127.0.0.1:42784 disconnected
+[2026-04-07 16:39:47] [INFO] Download from 127.0.0.1:42778 finished, sent 5242880 bytes
+[2026-04-07 16:39:47] [INFO] Client 127.0.0.1:42778 disconnected
+[2026-04-07 16:39:48] [INFO] Download from 127.0.0.1:42774 finished, sent 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42774 disconnected
+[2026-04-07 16:39:48] [INFO] Download from 127.0.0.1:42760 finished, sent 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42760 disconnected
+[2026-04-07 16:39:48] [INFO] Upload from 127.0.0.1:42702 finished, received 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42702 disconnected
+[2026-04-07 16:39:48] [INFO] Download from 127.0.0.1:42762 finished, sent 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42762 disconnected
+[2026-04-07 16:39:48] [INFO] Upload from 127.0.0.1:42758 finished, received 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42758 disconnected
+[2026-04-07 16:39:48] [INFO] Upload from 127.0.0.1:42746 finished, received 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42746 disconnected
+[2026-04-07 16:39:48] [INFO] Upload from 127.0.0.1:42718 finished, received 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42718 disconnected
+[2026-04-07 16:39:48] [INFO] Upload from 127.0.0.1:42732 finished, received 5242880 bytes
+[2026-04-07 16:39:48] [INFO] Client 127.0.0.1:42732 disconnected
+[2026-04-07 16:54:53] [INFO] Server listening on port 8888
+[2026-04-07 16:57:22] [INFO] Client 127.0.0.1:38092 connected
+[2026-04-07 16:57:22] [INFO] Upload from 127.0.0.1:38092: down_1.dat, size=5242880, offset=0
+[2026-04-07 16:57:22] [INFO] Upload from 127.0.0.1:38092 finished, received 5242880 bytes
+[2026-04-07 16:57:22] [INFO] Client 127.0.0.1:38092 disconnected
+[2026-04-07 16:57:23] [INFO] Client 127.0.0.1:38100 connected
+[2026-04-07 16:57:23] [INFO] Upload from 127.0.0.1:38100: down_2.dat, size=5242880, offset=0
+[2026-04-07 16:57:24] [INFO] Upload from 127.0.0.1:38100 finished, received 5242880 bytes
+[2026-04-07 16:57:24] [INFO] Client 127.0.0.1:38100 disconnected
+[2026-04-07 16:57:25] [INFO] Client 127.0.0.1:38114 connected
+[2026-04-07 16:57:25] [INFO] Upload from 127.0.0.1:38114: down_3.dat, size=5242880, offset=0
+[2026-04-07 16:57:25] [INFO] Upload from 127.0.0.1:38114 finished, received 5242880 bytes
+[2026-04-07 16:57:25] [INFO] Client 127.0.0.1:38114 disconnected
+[2026-04-07 16:57:26] [INFO] Client 127.0.0.1:38118 connected
+[2026-04-07 16:57:26] [INFO] Upload from 127.0.0.1:38118: down_4.dat, size=5242880, offset=0
+[2026-04-07 16:57:26] [INFO] Upload from 127.0.0.1:38118 finished, received 5242880 bytes
+[2026-04-07 16:57:26] [INFO] Client 127.0.0.1:38118 disconnected
+[2026-04-07 16:57:28] [INFO] Client 127.0.0.1:38120 connected
+[2026-04-07 16:57:28] [INFO] Upload from 127.0.0.1:38120: down_5.dat, size=5242880, offset=0
+[2026-04-07 16:57:28] [INFO] Upload from 127.0.0.1:38120 finished, received 5242880 bytes
+[2026-04-07 16:57:28] [INFO] Client 127.0.0.1:38120 disconnected
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38136 connected
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38150 connected
+[2026-04-07 16:57:29] [INFO] Upload from 127.0.0.1:38136: up_3.dat, size=5242880, offset=0
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38158 connected
+[2026-04-07 16:57:29] [INFO] Upload from 127.0.0.1:38150: up_2.dat, size=5242880, offset=0
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38170 connected
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38192 connected
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38184 connected
+[2026-04-07 16:57:29] [INFO] Upload from 127.0.0.1:38158: up_1.dat, size=5242880, offset=0
+[2026-04-07 16:57:29] [INFO] Upload from 127.0.0.1:38192: up_4.dat, size=5242880, offset=0
+[2026-04-07 16:57:29] [INFO] Upload from 127.0.0.1:38170: up_5.dat, size=5242880, offset=0
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38204 connected
+[2026-04-07 16:57:29] [INFO] Download from 127.0.0.1:38204: down_2.dat, offset=0
+[2026-04-07 16:57:29] [INFO] Download from 127.0.0.1:38184: down_3.dat, offset=0
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38218 connected
+[2026-04-07 16:57:29] [INFO] Download from 127.0.0.1:38218: down_1.dat, offset=0
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38228 connected
+[2026-04-07 16:57:29] [INFO] Download from 127.0.0.1:38228: down_4.dat, offset=0
+[2026-04-07 16:57:29] [INFO] Client 127.0.0.1:38242 connected
+[2026-04-07 16:57:29] [INFO] Download from 127.0.0.1:38242: down_5.dat, offset=0
+[2026-04-07 16:57:30] [INFO] Download from 127.0.0.1:38204 finished, sent 5242880 bytes
+[2026-04-07 16:57:30] [INFO] Client 127.0.0.1:38204 disconnected
+[2026-04-07 16:57:30] [INFO] Download from 127.0.0.1:38228 finished, sent 5242880 bytes
+[2026-04-07 16:57:30] [INFO] Client 127.0.0.1:38228 disconnected
+[2026-04-07 16:57:30] [INFO] Download from 127.0.0.1:38218 finished, sent 5242880 bytes
+[2026-04-07 16:57:30] [INFO] Client 127.0.0.1:38218 disconnected
+[2026-04-07 16:57:30] [INFO] Download from 127.0.0.1:38242 finished, sent 5242880 bytes
+[2026-04-07 16:57:30] [INFO] Client 127.0.0.1:38242 disconnected
+[2026-04-07 16:57:31] [INFO] Upload from 127.0.0.1:38136 finished, received 5242880 bytes
+[2026-04-07 16:57:31] [INFO] Client 127.0.0.1:38136 disconnected
+[2026-04-07 16:57:31] [INFO] Download from 127.0.0.1:38184 finished, sent 5242880 bytes
+[2026-04-07 16:57:31] [INFO] Client 127.0.0.1:38184 disconnected
+[2026-04-07 16:57:31] [INFO] Upload from 127.0.0.1:38192 finished, received 5242880 bytes
+[2026-04-07 16:57:31] [INFO] Client 127.0.0.1:38192 disconnected
+[2026-04-07 16:57:31] [INFO] Upload from 127.0.0.1:38158 finished, received 5242880 bytes
+[2026-04-07 16:57:31] [INFO] Client 127.0.0.1:38158 disconnected
+[2026-04-07 16:57:31] [INFO] Upload from 127.0.0.1:38150 finished, received 5242880 bytes
+[2026-04-07 16:57:31] [INFO] Client 127.0.0.1:38150 disconnected
+[2026-04-07 16:57:31] [INFO] Upload from 127.0.0.1:38170 finished, received 5242880 bytes
+[2026-04-07 16:57:31] [INFO] Client 127.0.0.1:38170 disconnected
+[2026-04-07 16:59:29] [INFO] Client 127.0.0.1:46294 connected
+[2026-04-07 16:59:29] [INFO] Upload from 127.0.0.1:46294: down_1.dat, size=5242880, offset=0
+[2026-04-07 16:59:30] [INFO] Upload from 127.0.0.1:46294 finished, received 5242880 bytes
+[2026-04-07 16:59:30] [INFO] Client 127.0.0.1:46294 disconnected
+[2026-04-07 16:59:31] [INFO] Client 127.0.0.1:46296 connected
+[2026-04-07 16:59:31] [INFO] Upload from 127.0.0.1:46296: down_2.dat, size=5242880, offset=0
+[2026-04-07 16:59:31] [INFO] Upload from 127.0.0.1:46296 finished, received 5242880 bytes
+[2026-04-07 16:59:31] [INFO] Client 127.0.0.1:46296 disconnected
+[2026-04-07 16:59:32] [INFO] Client 127.0.0.1:54046 connected
+[2026-04-07 16:59:32] [INFO] Upload from 127.0.0.1:54046: down_3.dat, size=5242880, offset=0
+[2026-04-07 16:59:33] [INFO] Upload from 127.0.0.1:54046 finished, received 5242880 bytes
+[2026-04-07 16:59:33] [INFO] Client 127.0.0.1:54046 disconnected
+[2026-04-07 16:59:34] [INFO] Client 127.0.0.1:54062 connected
+[2026-04-07 16:59:34] [INFO] Upload from 127.0.0.1:54062: down_4.dat, size=5242880, offset=0
+[2026-04-07 16:59:34] [INFO] Upload from 127.0.0.1:54062 finished, received 5242880 bytes
+[2026-04-07 16:59:34] [INFO] Client 127.0.0.1:54062 disconnected
+[2026-04-07 16:59:35] [INFO] Client 127.0.0.1:54066 connected
+[2026-04-07 16:59:35] [INFO] Upload from 127.0.0.1:54066: down_5.dat, size=5242880, offset=0
+[2026-04-07 16:59:35] [INFO] Upload from 127.0.0.1:54066 finished, received 5242880 bytes
+[2026-04-07 16:59:35] [INFO] Client 127.0.0.1:54066 disconnected
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54072 connected
+[2026-04-07 16:59:37] [INFO] Upload from 127.0.0.1:54072: up_1.dat, size=5242880, offset=0
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54080 connected
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54096 connected
+[2026-04-07 16:59:37] [INFO] Upload from 127.0.0.1:54096: up_4.dat, size=5242880, offset=0
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54112 connected
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54126 connected
+[2026-04-07 16:59:37] [INFO] Upload from 127.0.0.1:54080: up_2.dat, size=5242880, offset=0
+[2026-04-07 16:59:37] [INFO] Upload from 127.0.0.1:54126: up_5.dat, size=5242880, offset=0
+[2026-04-07 16:59:37] [INFO] Upload from 127.0.0.1:54112: up_3.dat, size=5242880, offset=0
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54132 connected
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54138 connected
+[2026-04-07 16:59:37] [INFO] Download from 127.0.0.1:54132: down_2.dat, offset=0
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54152 connected
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54164 connected
+[2026-04-07 16:59:37] [INFO] Download from 127.0.0.1:54138: down_4.dat, offset=0
+[2026-04-07 16:59:37] [INFO] Download from 127.0.0.1:54152: down_1.dat, offset=0
+[2026-04-07 16:59:37] [INFO] Download from 127.0.0.1:54164: down_5.dat, offset=0
+[2026-04-07 16:59:37] [INFO] Client 127.0.0.1:54166 connected
+[2026-04-07 16:59:37] [INFO] Download from 127.0.0.1:54166: down_3.dat, offset=0
+[2026-04-07 16:59:38] [INFO] Download from 127.0.0.1:54138 finished, sent 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54138 disconnected
+[2026-04-07 16:59:38] [INFO] Download from 127.0.0.1:54164 finished, sent 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54164 disconnected
+[2026-04-07 16:59:38] [INFO] Download from 127.0.0.1:54132 finished, sent 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54132 disconnected
+[2026-04-07 16:59:38] [INFO] Download from 127.0.0.1:54152 finished, sent 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54152 disconnected
+[2026-04-07 16:59:38] [INFO] Download from 127.0.0.1:54166 finished, sent 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54166 disconnected
+[2026-04-07 16:59:38] [INFO] Upload from 127.0.0.1:54080 finished, received 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54080 disconnected
+[2026-04-07 16:59:38] [INFO] Upload from 127.0.0.1:54126 finished, received 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54126 disconnected
+[2026-04-07 16:59:38] [INFO] Upload from 127.0.0.1:54112 finished, received 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54112 disconnected
+[2026-04-07 16:59:38] [INFO] Upload from 127.0.0.1:54072 finished, received 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54072 disconnected
+[2026-04-07 16:59:38] [INFO] Upload from 127.0.0.1:54096 finished, received 5242880 bytes
+[2026-04-07 16:59:38] [INFO] Client 127.0.0.1:54096 disconnected
+[2026-04-07 17:04:29] [INFO] Client 127.0.0.1:58454 connected
+[2026-04-07 17:04:29] [INFO] Upload from 127.0.0.1:58454: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:04:29] [ERROR] Failed to open file down_1.dat for upload
+[2026-04-07 17:04:29] [INFO] Client 127.0.0.1:58454 disconnected
+[2026-04-07 17:04:56] [INFO] Client 127.0.0.1:56006 connected
+[2026-04-07 17:04:57] [INFO] Upload from 127.0.0.1:56006: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:04:57] [ERROR] Failed to open file down_1.dat for upload
+[2026-04-07 17:04:57] [INFO] Client 127.0.0.1:56006 disconnected
+[2026-04-07 17:05:41] [INFO] Server listening on port 8888
+[2026-04-07 17:06:04] [INFO] Client 127.0.0.1:43786 connected
+[2026-04-07 17:06:04] [INFO] Upload from 127.0.0.1:43786: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:06:04] [INFO] Upload from 127.0.0.1:43786 finished, received 5242880 bytes
+[2026-04-07 17:06:04] [INFO] Client 127.0.0.1:43786 disconnected
+[2026-04-07 17:06:05] [INFO] Client 127.0.0.1:43788 connected
+[2026-04-07 17:06:05] [INFO] Upload from 127.0.0.1:43788: down_2.dat, size=5242880, offset=0
+[2026-04-07 17:06:06] [INFO] Upload from 127.0.0.1:43788 finished, received 5242880 bytes
+[2026-04-07 17:06:06] [INFO] Client 127.0.0.1:43788 disconnected
+[2026-04-07 17:06:07] [INFO] Client 127.0.0.1:43794 connected
+[2026-04-07 17:06:07] [INFO] Upload from 127.0.0.1:43794: down_3.dat, size=5242880, offset=0
+[2026-04-07 17:06:07] [INFO] Upload from 127.0.0.1:43794 finished, received 5242880 bytes
+[2026-04-07 17:06:07] [INFO] Client 127.0.0.1:43794 disconnected
+[2026-04-07 17:06:08] [INFO] Client 127.0.0.1:43798 connected
+[2026-04-07 17:06:08] [INFO] Upload from 127.0.0.1:43798: down_4.dat, size=5242880, offset=0
+[2026-04-07 17:06:08] [INFO] Upload from 127.0.0.1:43798 finished, received 5242880 bytes
+[2026-04-07 17:06:08] [INFO] Client 127.0.0.1:43798 disconnected
+[2026-04-07 17:06:09] [INFO] Client 127.0.0.1:43806 connected
+[2026-04-07 17:06:09] [INFO] Upload from 127.0.0.1:43806: down_5.dat, size=5242880, offset=0
+[2026-04-07 17:06:10] [INFO] Upload from 127.0.0.1:43806 finished, received 5242880 bytes
+[2026-04-07 17:06:10] [INFO] Client 127.0.0.1:43806 disconnected
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43808 connected
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43824 connected
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43836 connected
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43820 connected
+[2026-04-07 17:06:11] [INFO] Upload from 127.0.0.1:43808: up_1.dat, size=5242880, offset=0
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43842 connected
+[2026-04-07 17:06:11] [INFO] Upload from 127.0.0.1:43836: up_4.dat, size=5242880, offset=0
+[2026-04-07 17:06:11] [INFO] Upload from 127.0.0.1:43820: up_2.dat, size=5242880, offset=0
+[2026-04-07 17:06:11] [INFO] Upload from 127.0.0.1:43824: up_5.dat, size=5242880, offset=0
+[2026-04-07 17:06:11] [INFO] Upload from 127.0.0.1:43842: up_3.dat, size=5242880, offset=0
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43848 connected
+[2026-04-07 17:06:11] [INFO] Download from 127.0.0.1:43848: down_5.dat, offset=0
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43856 connected
+[2026-04-07 17:06:11] [INFO] Download from 127.0.0.1:43856: down_1.dat, offset=0
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43866 connected
+[2026-04-07 17:06:11] [INFO] Download from 127.0.0.1:43866: down_4.dat, offset=0
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43870 connected
+[2026-04-07 17:06:11] [INFO] Download from 127.0.0.1:43870: down_3.dat, offset=0
+[2026-04-07 17:06:11] [INFO] Client 127.0.0.1:43880 connected
+[2026-04-07 17:06:11] [INFO] Download from 127.0.0.1:43880: down_2.dat, offset=0
+[2026-04-07 17:06:12] [INFO] Download from 127.0.0.1:43856 finished, sent 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43856 disconnected
+[2026-04-07 17:06:12] [INFO] Download from 127.0.0.1:43866 finished, sent 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43866 disconnected
+[2026-04-07 17:06:12] [INFO] Download from 127.0.0.1:43870 finished, sent 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43870 disconnected
+[2026-04-07 17:06:12] [INFO] Upload from 127.0.0.1:43842 finished, received 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43842 disconnected
+[2026-04-07 17:06:12] [INFO] Download from 127.0.0.1:43848 finished, sent 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43848 disconnected
+[2026-04-07 17:06:12] [INFO] Download from 127.0.0.1:43880 finished, sent 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43880 disconnected
+[2026-04-07 17:06:12] [INFO] Upload from 127.0.0.1:43820 finished, received 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43820 disconnected
+[2026-04-07 17:06:12] [INFO] Upload from 127.0.0.1:43836 finished, received 5242880 bytes
+[2026-04-07 17:06:12] [INFO] Client 127.0.0.1:43836 disconnected
+[2026-04-07 17:06:13] [INFO] Upload from 127.0.0.1:43808 finished, received 5242880 bytes
+[2026-04-07 17:06:13] [INFO] Client 127.0.0.1:43808 disconnected
+[2026-04-07 17:06:13] [INFO] Upload from 127.0.0.1:43824 finished, received 5242880 bytes
+[2026-04-07 17:06:13] [INFO] Client 127.0.0.1:43824 disconnected
+[2026-04-07 17:13:46] [INFO] Client 127.0.0.1:34490 connected
+[2026-04-07 17:13:46] [INFO] Upload from 127.0.0.1:34490: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:13:46] [INFO] Upload from 127.0.0.1:34490 finished, received 5242880 bytes
+[2026-04-07 17:13:46] [INFO] Client 127.0.0.1:34490 disconnected
+[2026-04-07 17:13:47] [INFO] Client 127.0.0.1:34492 connected
+[2026-04-07 17:13:47] [INFO] Upload from 127.0.0.1:34492: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:13:48] [INFO] Upload from 127.0.0.1:34492 finished, received 5242880 bytes
+[2026-04-07 17:13:48] [INFO] Client 127.0.0.1:34492 disconnected
+[2026-04-07 17:13:49] [INFO] Client 127.0.0.1:34494 connected
+[2026-04-07 17:13:49] [INFO] Upload from 127.0.0.1:34494: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:13:49] [INFO] Upload from 127.0.0.1:34494 finished, received 5242880 bytes
+[2026-04-07 17:13:49] [INFO] Client 127.0.0.1:34494 disconnected
+[2026-04-07 17:13:50] [INFO] Client 127.0.0.1:34496 connected
+[2026-04-07 17:13:50] [INFO] Upload from 127.0.0.1:34496: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:13:50] [INFO] Upload from 127.0.0.1:34496 finished, received 5242880 bytes
+[2026-04-07 17:13:50] [INFO] Client 127.0.0.1:34496 disconnected
+[2026-04-07 17:13:51] [INFO] Client 127.0.0.1:34500 connected
+[2026-04-07 17:13:51] [INFO] Upload from 127.0.0.1:34500: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:13:52] [INFO] Upload from 127.0.0.1:34500 finished, received 5242880 bytes
+[2026-04-07 17:13:52] [INFO] Client 127.0.0.1:34500 disconnected
+[2026-04-07 17:13:53] [INFO] Client 127.0.0.1:60348 connected
+[2026-04-07 17:13:53] [INFO] Upload from 127.0.0.1:60348: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:13:53] [INFO] Upload from 127.0.0.1:60348 finished, received 5242880 bytes
+[2026-04-07 17:13:53] [INFO] Client 127.0.0.1:60348 disconnected
+[2026-04-07 17:13:54] [INFO] Client 127.0.0.1:60350 connected
+[2026-04-07 17:13:54] [INFO] Upload from 127.0.0.1:60350: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:13:54] [INFO] Upload from 127.0.0.1:60350 finished, received 5242880 bytes
+[2026-04-07 17:13:54] [INFO] Client 127.0.0.1:60350 disconnected
+[2026-04-07 17:13:55] [INFO] Client 127.0.0.1:60356 connected
+[2026-04-07 17:13:55] [INFO] Upload from 127.0.0.1:60356: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:13:56] [INFO] Upload from 127.0.0.1:60356 finished, received 5242880 bytes
+[2026-04-07 17:13:56] [INFO] Client 127.0.0.1:60356 disconnected
+[2026-04-07 17:13:57] [INFO] Client 127.0.0.1:60364 connected
+[2026-04-07 17:13:57] [INFO] Upload from 127.0.0.1:60364: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:13:57] [INFO] Upload from 127.0.0.1:60364 finished, received 5242880 bytes
+[2026-04-07 17:13:57] [INFO] Client 127.0.0.1:60364 disconnected
+[2026-04-07 17:13:58] [INFO] Client 127.0.0.1:60366 connected
+[2026-04-07 17:13:58] [INFO] Upload from 127.0.0.1:60366: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:13:59] [INFO] Upload from 127.0.0.1:60366 finished, received 5242880 bytes
+[2026-04-07 17:13:59] [INFO] Client 127.0.0.1:60366 disconnected
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60380 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60380: file_1.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60390 connected
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60406 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60390: file_3.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60406: file_6.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60408 connected
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60420 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60420: file_4.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60410 connected
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60434 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60410: file_9.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60446 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60446: file_8.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60408: file_2.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60434: file_7.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60470 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60470: file_10.dat, offset=0
+[2026-04-07 17:14:00] [INFO] Client 127.0.0.1:60458 connected
+[2026-04-07 17:14:00] [INFO] Download from 127.0.0.1:60458: file_5.dat, offset=0
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60420 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60420 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60406 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60406 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60470 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60470 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60380 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60380 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60434 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60434 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60390 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60390 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60410 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60410 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60446 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60446 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60458 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60458 disconnected
+[2026-04-07 17:14:01] [INFO] Download from 127.0.0.1:60408 finished, sent 5242880 bytes
+[2026-04-07 17:14:01] [INFO] Client 127.0.0.1:60408 disconnected
+[2026-04-07 17:15:51] [INFO] Client 127.0.0.1:55672 connected
+[2026-04-07 17:15:51] [INFO] Upload from 127.0.0.1:55672: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:15:52] [INFO] Upload from 127.0.0.1:55672 finished, received 5242880 bytes
+[2026-04-07 17:15:52] [INFO] Client 127.0.0.1:55672 disconnected
+[2026-04-07 17:15:53] [INFO] Client 127.0.0.1:48294 connected
+[2026-04-07 17:15:53] [INFO] Upload from 127.0.0.1:48294: down_2.dat, size=5242880, offset=0
+[2026-04-07 17:15:53] [INFO] Upload from 127.0.0.1:48294 finished, received 5242880 bytes
+[2026-04-07 17:15:53] [INFO] Client 127.0.0.1:48294 disconnected
+[2026-04-07 17:15:54] [INFO] Client 127.0.0.1:48302 connected
+[2026-04-07 17:15:54] [INFO] Upload from 127.0.0.1:48302: down_3.dat, size=5242880, offset=0
+[2026-04-07 17:15:54] [INFO] Upload from 127.0.0.1:48302 finished, received 5242880 bytes
+[2026-04-07 17:15:54] [INFO] Client 127.0.0.1:48302 disconnected
+[2026-04-07 17:15:55] [INFO] Client 127.0.0.1:48318 connected
+[2026-04-07 17:15:55] [INFO] Upload from 127.0.0.1:48318: down_4.dat, size=5242880, offset=0
+[2026-04-07 17:15:56] [INFO] Upload from 127.0.0.1:48318 finished, received 5242880 bytes
+[2026-04-07 17:15:56] [INFO] Client 127.0.0.1:48318 disconnected
+[2026-04-07 17:15:57] [INFO] Client 127.0.0.1:48324 connected
+[2026-04-07 17:15:57] [INFO] Upload from 127.0.0.1:48324: down_5.dat, size=5242880, offset=0
+[2026-04-07 17:15:57] [INFO] Upload from 127.0.0.1:48324 finished, received 5242880 bytes
+[2026-04-07 17:15:57] [INFO] Client 127.0.0.1:48324 disconnected
+[2026-04-07 17:15:58] [INFO] Client 127.0.0.1:48330 connected
+[2026-04-07 17:15:58] [INFO] Client 127.0.0.1:48338 connected
+[2026-04-07 17:15:58] [INFO] Upload from 127.0.0.1:48330: up_1.dat, size=5242880, offset=0
+[2026-04-07 17:15:58] [INFO] Upload from 127.0.0.1:48338: up_3.dat, size=5242880, offset=0
+[2026-04-07 17:15:58] [INFO] Client 127.0.0.1:48350 connected
+[2026-04-07 17:15:58] [INFO] Client 127.0.0.1:48354 connected
+[2026-04-07 17:15:58] [INFO] Upload from 127.0.0.1:48350: up_2.dat, size=5242880, offset=0
+[2026-04-07 17:15:58] [INFO] Client 127.0.0.1:48358 connected
+[2026-04-07 17:15:58] [INFO] Upload from 127.0.0.1:48354: up_4.dat, size=5242880, offset=0
+[2026-04-07 17:15:59] [INFO] Client 127.0.0.1:48370 connected
+[2026-04-07 17:15:59] [INFO] Download from 127.0.0.1:48370: down_1.dat, offset=0
+[2026-04-07 17:15:59] [INFO] Upload from 127.0.0.1:48358: up_5.dat, size=5242880, offset=0
+[2026-04-07 17:15:59] [INFO] Client 127.0.0.1:48386 connected
+[2026-04-07 17:15:59] [INFO] Download from 127.0.0.1:48386: down_5.dat, offset=0
+[2026-04-07 17:15:59] [INFO] Client 127.0.0.1:48366 connected
+[2026-04-07 17:15:59] [INFO] Download from 127.0.0.1:48366: down_4.dat, offset=0
+[2026-04-07 17:15:59] [INFO] Client 127.0.0.1:48398 connected
+[2026-04-07 17:15:59] [INFO] Download from 127.0.0.1:48398: down_3.dat, offset=0
+[2026-04-07 17:15:59] [INFO] Client 127.0.0.1:48412 connected
+[2026-04-07 17:15:59] [INFO] Download from 127.0.0.1:48412: down_2.dat, offset=0
+[2026-04-07 17:16:00] [INFO] Download from 127.0.0.1:48412 finished, sent 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48412 disconnected
+[2026-04-07 17:16:00] [INFO] Download from 127.0.0.1:48370 finished, sent 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48370 disconnected
+[2026-04-07 17:16:00] [INFO] Download from 127.0.0.1:48386 finished, sent 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48386 disconnected
+[2026-04-07 17:16:00] [INFO] Download from 127.0.0.1:48366 finished, sent 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48366 disconnected
+[2026-04-07 17:16:00] [INFO] Download from 127.0.0.1:48398 finished, sent 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48398 disconnected
+[2026-04-07 17:16:00] [INFO] Upload from 127.0.0.1:48330 finished, received 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48330 disconnected
+[2026-04-07 17:16:00] [INFO] Upload from 127.0.0.1:48350 finished, received 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48350 disconnected
+[2026-04-07 17:16:00] [INFO] Upload from 127.0.0.1:48354 finished, received 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48354 disconnected
+[2026-04-07 17:16:00] [INFO] Upload from 127.0.0.1:48338 finished, received 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48338 disconnected
+[2026-04-07 17:16:00] [INFO] Upload from 127.0.0.1:48358 finished, received 5242880 bytes
+[2026-04-07 17:16:00] [INFO] Client 127.0.0.1:48358 disconnected
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59100 connected
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59114 connected
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59100: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59126 connected
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59142 connected
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59130 connected
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59114: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59150 connected
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59126: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59130: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59158 connected
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59178 connected
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59162 connected
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59158: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59162: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59150: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59142: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59178: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:18:56] [INFO] Client 127.0.0.1:59184 connected
+[2026-04-07 17:18:56] [INFO] Upload from 127.0.0.1:59184: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:18:57] [INFO] Upload from 127.0.0.1:59114 finished, received 5242880 bytes
+[2026-04-07 17:18:57] [INFO] Client 127.0.0.1:59114 disconnected
+[2026-04-07 17:18:57] [INFO] Upload from 127.0.0.1:59162 finished, received 5242880 bytes
+[2026-04-07 17:18:57] [INFO] Client 127.0.0.1:59162 disconnected
+[2026-04-07 17:18:57] [INFO] Upload from 127.0.0.1:59126 finished, received 5242880 bytes
+[2026-04-07 17:18:57] [INFO] Client 127.0.0.1:59126 disconnected
+[2026-04-07 17:18:57] [INFO] Upload from 127.0.0.1:59158 finished, received 5242880 bytes
+[2026-04-07 17:18:57] [INFO] Client 127.0.0.1:59158 disconnected
+[2026-04-07 17:18:58] [INFO] Upload from 127.0.0.1:59178 finished, received 5242880 bytes
+[2026-04-07 17:18:58] [INFO] Client 127.0.0.1:59178 disconnected
+[2026-04-07 17:18:58] [INFO] Upload from 127.0.0.1:59100 finished, received 5242880 bytes
+[2026-04-07 17:18:58] [INFO] Client 127.0.0.1:59100 disconnected
+[2026-04-07 17:18:58] [INFO] Upload from 127.0.0.1:59184 finished, received 5242880 bytes
+[2026-04-07 17:18:58] [INFO] Client 127.0.0.1:59184 disconnected
+[2026-04-07 17:18:58] [INFO] Upload from 127.0.0.1:59150 finished, received 5242880 bytes
+[2026-04-07 17:18:58] [INFO] Client 127.0.0.1:59150 disconnected
+[2026-04-07 17:18:58] [INFO] Upload from 127.0.0.1:59130 finished, received 5242880 bytes
+[2026-04-07 17:18:58] [INFO] Client 127.0.0.1:59130 disconnected
+[2026-04-07 17:18:58] [INFO] Upload from 127.0.0.1:59142 finished, received 5242880 bytes
+[2026-04-07 17:18:58] [INFO] Client 127.0.0.1:59142 disconnected
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35848 connected
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35864 connected
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35868 connected
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35864: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35848: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35878 connected
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35868: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35884 connected
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35878: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35896 connected
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35914 connected
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35900 connected
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35900: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35884: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35896: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35914: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35922 connected
+[2026-04-07 17:25:36] [INFO] Client 127.0.0.1:35928 connected
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35928: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:25:36] [INFO] Upload from 127.0.0.1:35922: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:25:37] [INFO] Upload from 127.0.0.1:35878 finished, received 5242880 bytes
+[2026-04-07 17:25:37] [INFO] Client 127.0.0.1:35878 disconnected
+[2026-04-07 17:25:37] [INFO] Upload from 127.0.0.1:35864 finished, received 5242880 bytes
+[2026-04-07 17:25:37] [INFO] Client 127.0.0.1:35864 disconnected
+[2026-04-07 17:25:37] [INFO] Upload from 127.0.0.1:35900 finished, received 5242880 bytes
+[2026-04-07 17:25:37] [INFO] Client 127.0.0.1:35900 disconnected
+[2026-04-07 17:25:37] [INFO] Upload from 127.0.0.1:35848 finished, received 5242880 bytes
+[2026-04-07 17:25:37] [INFO] Client 127.0.0.1:35848 disconnected
+[2026-04-07 17:25:38] [INFO] Upload from 127.0.0.1:35922 finished, received 5242880 bytes
+[2026-04-07 17:25:38] [INFO] Client 127.0.0.1:35922 disconnected
+[2026-04-07 17:25:38] [INFO] Upload from 127.0.0.1:35868 finished, received 5242880 bytes
+[2026-04-07 17:25:38] [INFO] Client 127.0.0.1:35868 disconnected
+[2026-04-07 17:25:38] [INFO] Upload from 127.0.0.1:35884 finished, received 5242880 bytes
+[2026-04-07 17:25:38] [INFO] Client 127.0.0.1:35884 disconnected
+[2026-04-07 17:25:38] [INFO] Upload from 127.0.0.1:35928 finished, received 5242880 bytes
+[2026-04-07 17:25:38] [INFO] Client 127.0.0.1:35928 disconnected
+[2026-04-07 17:25:38] [INFO] Upload from 127.0.0.1:35914 finished, received 5242880 bytes
+[2026-04-07 17:25:38] [INFO] Client 127.0.0.1:35914 disconnected
+[2026-04-07 17:25:38] [INFO] Upload from 127.0.0.1:35896 finished, received 5242880 bytes
+[2026-04-07 17:25:38] [INFO] Client 127.0.0.1:35896 disconnected
+[2026-04-07 17:26:58] [INFO] Client 127.0.0.1:60620 connected
+[2026-04-07 17:26:58] [INFO] Client 127.0.0.1:60636 connected
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60648 connected
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60654 connected
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60636: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60654: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60620: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60662 connected
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60648: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60674 connected
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60680 connected
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60662: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60674: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60680: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60696 connected
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60696: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60712 connected
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60712: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:26:59] [INFO] Client 127.0.0.1:60716 connected
+[2026-04-07 17:26:59] [INFO] Upload from 127.0.0.1:60716: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60662 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60662 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60654 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60654 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60712 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60712 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60636 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60636 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60674 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60674 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60620 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60620 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60680 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60680 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60648 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60648 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60696 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60696 disconnected
+[2026-04-07 17:27:00] [INFO] Upload from 127.0.0.1:60716 finished, received 5242880 bytes
+[2026-04-07 17:27:00] [INFO] Client 127.0.0.1:60716 disconnected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53390 connected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53400 connected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53414 connected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53426 connected
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53390: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53400: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53426: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53428 connected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53442 connected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53456 connected
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53428: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53466 connected
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53414: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53442: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53456: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53466: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53478 connected
+[2026-04-07 17:27:58] [INFO] Client 127.0.0.1:53486 connected
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53486: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:27:58] [INFO] Upload from 127.0.0.1:53478: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53390 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53390 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53466 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53466 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53456 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53456 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53400 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53400 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53442 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53442 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53486 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53486 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53428 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53428 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53426 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53478 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53426 disconnected
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53478 disconnected
+[2026-04-07 17:28:00] [INFO] Upload from 127.0.0.1:53414 finished, received 5242880 bytes
+[2026-04-07 17:28:00] [INFO] Client 127.0.0.1:53414 disconnected
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37102 connected
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37110 connected
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37122 connected
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37110: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37122: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37102: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37138 connected
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37152 connected
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37164 connected
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37166 connected
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37152: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37182 connected
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37138: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37194 connected
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37182: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37164: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37166: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37194: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:28:22] [INFO] Client 127.0.0.1:37198 connected
+[2026-04-07 17:28:22] [INFO] Upload from 127.0.0.1:37198: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37102 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37102 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37182 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37182 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37152 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37152 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37122 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37122 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37166 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37166 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37194 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37194 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37198 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37198 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37110 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37110 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37138 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37138 disconnected
+[2026-04-07 17:28:23] [INFO] Upload from 127.0.0.1:37164 finished, received 5242880 bytes
+[2026-04-07 17:28:23] [INFO] Client 127.0.0.1:37164 disconnected
+[2026-04-07 17:29:27] [INFO] Client 127.0.0.1:37202 connected
+[2026-04-07 17:29:27] [INFO] Client 127.0.0.1:37204 connected
+[2026-04-07 17:29:27] [INFO] Upload from 127.0.0.1:37204: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:29:27] [INFO] Client 127.0.0.1:37214 connected
+[2026-04-07 17:29:27] [INFO] Upload from 127.0.0.1:37202: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:29:27] [INFO] Upload from 127.0.0.1:37214: same_file.dat, size=10485760, offset=36864
+[2026-04-07 17:29:27] [INFO] Client 127.0.0.1:37218 connected
+[2026-04-07 17:29:27] [INFO] Client 127.0.0.1:37222 connected
+[2026-04-07 17:29:27] [INFO] Upload from 127.0.0.1:37222: same_file.dat, size=10485760, offset=135168
+[2026-04-07 17:29:27] [INFO] Upload from 127.0.0.1:37218: same_file.dat, size=10485760, offset=102400
+[2026-04-07 17:29:27] [INFO] Upload from 127.0.0.1:37204 finished, received 10485760 bytes
+[2026-04-07 17:29:27] [INFO] Client 127.0.0.1:37204 disconnected
+[2026-04-07 17:29:28] [INFO] Upload from 127.0.0.1:37202 finished, received 10485760 bytes
+[2026-04-07 17:29:28] [INFO] Client 127.0.0.1:37202 disconnected
+[2026-04-07 17:29:28] [INFO] Upload from 127.0.0.1:37214 finished, received 10485760 bytes
+[2026-04-07 17:29:28] [INFO] Client 127.0.0.1:37214 disconnected
+[2026-04-07 17:29:29] [INFO] Upload from 127.0.0.1:37222 finished, received 10485760 bytes
+[2026-04-07 17:29:29] [INFO] Client 127.0.0.1:37222 disconnected
+[2026-04-07 17:29:29] [INFO] Upload from 127.0.0.1:37218 finished, received 10485760 bytes
+[2026-04-07 17:29:29] [INFO] Client 127.0.0.1:37218 disconnected
+[2026-04-07 17:29:49] [INFO] Client 127.0.0.1:47178 connected
+[2026-04-07 17:29:49] [INFO] Client 127.0.0.1:47186 connected
+[2026-04-07 17:29:49] [INFO] Client 127.0.0.1:47202 connected
+[2026-04-07 17:29:49] [INFO] Upload from 127.0.0.1:47186: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:29:49] [INFO] Upload from 127.0.0.1:47178: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:29:49] [INFO] Client 127.0.0.1:47214 connected
+[2026-04-07 17:29:49] [INFO] Upload from 127.0.0.1:47202: same_file.dat, size=10485760, offset=28672
+[2026-04-07 17:29:49] [INFO] Client 127.0.0.1:47228 connected
+[2026-04-07 17:29:49] [INFO] Upload from 127.0.0.1:47214: same_file.dat, size=10485760, offset=241664
+[2026-04-07 17:29:49] [INFO] Upload from 127.0.0.1:47228: same_file.dat, size=10485760, offset=237568
+[2026-04-07 17:29:50] [INFO] Upload from 127.0.0.1:47186 finished, received 10485760 bytes
+[2026-04-07 17:29:50] [INFO] Client 127.0.0.1:47186 disconnected
+[2026-04-07 17:29:50] [INFO] Upload from 127.0.0.1:47178 finished, received 10485760 bytes
+[2026-04-07 17:29:50] [INFO] Client 127.0.0.1:47178 disconnected
+[2026-04-07 17:29:50] [INFO] Upload from 127.0.0.1:47202 finished, received 10485760 bytes
+[2026-04-07 17:29:50] [INFO] Client 127.0.0.1:47202 disconnected
+[2026-04-07 17:29:51] [INFO] Upload from 127.0.0.1:47214 finished, received 10485760 bytes
+[2026-04-07 17:29:51] [INFO] Client 127.0.0.1:47214 disconnected
+[2026-04-07 17:29:51] [INFO] Upload from 127.0.0.1:47228 finished, received 10485760 bytes
+[2026-04-07 17:29:51] [INFO] Client 127.0.0.1:47228 disconnected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38894 connected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38906 connected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38922 connected
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38922: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38906: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38894: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38930 connected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38936 connected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38950 connected
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38950: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38952 connected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38958 connected
+[2026-04-07 17:31:04] [INFO] Client 127.0.0.1:38968 connected
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38936: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38930: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38952: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:31:04] [INFO] Upload from 127.0.0.1:38958: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:31:05] [INFO] Client 127.0.0.1:38980 connected
+[2026-04-07 17:31:05] [INFO] Upload from 127.0.0.1:38980: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:31:05] [INFO] Upload from 127.0.0.1:38968: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38906 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38906 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38894 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38894 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38936 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38936 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38922 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38922 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38950 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38950 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38968 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38968 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38952 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38952 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38980 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38980 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38958 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38958 disconnected
+[2026-04-07 17:31:06] [INFO] Upload from 127.0.0.1:38930 finished, received 5242880 bytes
+[2026-04-07 17:31:06] [INFO] Client 127.0.0.1:38930 disconnected
+[2026-04-07 17:31:28] [INFO] Client 127.0.0.1:59504 connected
+[2026-04-07 17:31:28] [INFO] Upload from 127.0.0.1:59504: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:31:28] [INFO] Client 127.0.0.1:59516 connected
+[2026-04-07 17:31:28] [INFO] Client 127.0.0.1:59530 connected
+[2026-04-07 17:31:28] [INFO] Upload from 127.0.0.1:59516: same_file.dat, size=10485760, offset=28672
+[2026-04-07 17:31:28] [INFO] Client 127.0.0.1:59542 connected
+[2026-04-07 17:31:28] [INFO] Upload from 127.0.0.1:59530: same_file.dat, size=10485760, offset=28672
+[2026-04-07 17:31:28] [INFO] Client 127.0.0.1:59548 connected
+[2026-04-07 17:31:28] [INFO] Upload from 127.0.0.1:59542: same_file.dat, size=10485760, offset=61440
+[2026-04-07 17:31:28] [INFO] Upload from 127.0.0.1:59548: same_file.dat, size=10485760, offset=200704
+[2026-04-07 17:31:29] [INFO] Upload from 127.0.0.1:59504 finished, received 10485760 bytes
+[2026-04-07 17:31:29] [INFO] Client 127.0.0.1:59504 disconnected
+[2026-04-07 17:31:30] [INFO] Upload from 127.0.0.1:59516 finished, received 10485760 bytes
+[2026-04-07 17:31:30] [INFO] Client 127.0.0.1:59516 disconnected
+[2026-04-07 17:31:30] [INFO] Upload from 127.0.0.1:59530 finished, received 10485760 bytes
+[2026-04-07 17:31:30] [INFO] Client 127.0.0.1:59530 disconnected
+[2026-04-07 17:31:31] [INFO] Upload from 127.0.0.1:59542 finished, received 10485760 bytes
+[2026-04-07 17:31:31] [INFO] Client 127.0.0.1:59542 disconnected
+[2026-04-07 17:31:31] [INFO] Upload from 127.0.0.1:59548 finished, received 10485760 bytes
+[2026-04-07 17:31:31] [INFO] Client 127.0.0.1:59548 disconnected
+[2026-04-07 17:31:50] [INFO] Client 127.0.0.1:39026 connected
+[2026-04-07 17:31:50] [INFO] Client 127.0.0.1:39038 connected
+[2026-04-07 17:31:50] [INFO] Client 127.0.0.1:39048 connected
+[2026-04-07 17:31:50] [INFO] Upload from 127.0.0.1:39026: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:31:50] [INFO] Upload from 127.0.0.1:39038: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:31:50] [INFO] Upload from 127.0.0.1:39048: same_file.dat, size=10485760, offset=28672
+[2026-04-07 17:31:50] [INFO] Client 127.0.0.1:39052 connected
+[2026-04-07 17:31:51] [INFO] Client 127.0.0.1:39066 connected
+[2026-04-07 17:31:51] [INFO] Upload from 127.0.0.1:39066: same_file.dat, size=10485760, offset=233472
+[2026-04-07 17:31:51] [INFO] Upload from 127.0.0.1:39052: same_file.dat, size=10485760, offset=233472
+[2026-04-07 17:31:51] [INFO] Upload from 127.0.0.1:39026 finished, received 10485760 bytes
+[2026-04-07 17:31:51] [INFO] Client 127.0.0.1:39026 disconnected
+[2026-04-07 17:31:52] [INFO] Upload from 127.0.0.1:39038 finished, received 10485760 bytes
+[2026-04-07 17:31:52] [INFO] Client 127.0.0.1:39038 disconnected
+[2026-04-07 17:31:52] [INFO] Upload from 127.0.0.1:39048 finished, received 10485760 bytes
+[2026-04-07 17:31:52] [INFO] Client 127.0.0.1:39048 disconnected
+[2026-04-07 17:31:52] [INFO] Upload from 127.0.0.1:39066 finished, received 10485760 bytes
+[2026-04-07 17:31:52] [INFO] Client 127.0.0.1:39066 disconnected
+[2026-04-07 17:31:53] [INFO] Upload from 127.0.0.1:39052 finished, received 10485760 bytes
+[2026-04-07 17:31:53] [INFO] Client 127.0.0.1:39052 disconnected
+[2026-04-07 17:32:55] [INFO] Client 127.0.0.1:51356 connected
+[2026-04-07 17:32:55] [INFO] Client 127.0.0.1:51366 connected
+[2026-04-07 17:32:55] [INFO] Client 127.0.0.1:51368 connected
+[2026-04-07 17:32:55] [INFO] Upload from 127.0.0.1:51356: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:32:55] [INFO] Upload from 127.0.0.1:51366: same_file.dat, size=10485760, offset=32768
+[2026-04-07 17:32:55] [INFO] Upload from 127.0.0.1:51368: same_file.dat, size=10485760, offset=69632
+[2026-04-07 17:32:55] [INFO] Client 127.0.0.1:51382 connected
+[2026-04-07 17:32:55] [INFO] Upload from 127.0.0.1:51382: same_file.dat, size=10485760, offset=233472
+[2026-04-07 17:32:55] [INFO] Client 127.0.0.1:51390 connected
+[2026-04-07 17:32:55] [INFO] Upload from 127.0.0.1:51390: same_file.dat, size=10485760, offset=430080
+[2026-04-07 17:32:56] [INFO] Upload from 127.0.0.1:51356 finished, received 10485760 bytes
+[2026-04-07 17:32:56] [INFO] Client 127.0.0.1:51356 disconnected
+[2026-04-07 17:32:56] [INFO] Upload from 127.0.0.1:51366 finished, received 10485760 bytes
+[2026-04-07 17:32:56] [INFO] Client 127.0.0.1:51366 disconnected
+[2026-04-07 17:32:56] [INFO] Upload from 127.0.0.1:51368 finished, received 10485760 bytes
+[2026-04-07 17:32:56] [INFO] Client 127.0.0.1:51368 disconnected
+[2026-04-07 17:32:57] [INFO] Upload from 127.0.0.1:51382 finished, received 10485760 bytes
+[2026-04-07 17:32:57] [INFO] Client 127.0.0.1:51382 disconnected
+[2026-04-07 17:32:57] [INFO] Upload from 127.0.0.1:51390 finished, received 10485760 bytes
+[2026-04-07 17:32:57] [INFO] Client 127.0.0.1:51390 disconnected
+[2026-04-07 17:33:20] [INFO] Client 127.0.0.1:49236 connected
+[2026-04-07 17:33:20] [INFO] Upload from 127.0.0.1:49236: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:33:20] [INFO] Client 127.0.0.1:49242 connected
+[2026-04-07 17:33:20] [INFO] Client 127.0.0.1:49258 connected
+[2026-04-07 17:33:20] [INFO] Client 127.0.0.1:49260 connected
+[2026-04-07 17:33:20] [INFO] Client 127.0.0.1:49274 connected
+[2026-04-07 17:33:20] [INFO] Upload from 127.0.0.1:49274: same_file.dat, size=10485760, offset=208896
+[2026-04-07 17:33:20] [INFO] Upload from 127.0.0.1:49242: same_file.dat, size=10485760, offset=143360
+[2026-04-07 17:33:20] [INFO] Upload from 127.0.0.1:49258: same_file.dat, size=10485760, offset=143360
+[2026-04-07 17:33:20] [INFO] Upload from 127.0.0.1:49260: same_file.dat, size=10485760, offset=208896
+[2026-04-07 17:33:21] [INFO] Upload from 127.0.0.1:49236 finished, received 10485760 bytes
+[2026-04-07 17:33:21] [INFO] Client 127.0.0.1:49236 disconnected
+[2026-04-07 17:33:21] [INFO] Upload from 127.0.0.1:49274 finished, received 10485760 bytes
+[2026-04-07 17:33:21] [INFO] Client 127.0.0.1:49274 disconnected
+[2026-04-07 17:33:22] [INFO] Upload from 127.0.0.1:49242 finished, received 10485760 bytes
+[2026-04-07 17:33:22] [INFO] Client 127.0.0.1:49242 disconnected
+[2026-04-07 17:33:22] [INFO] Upload from 127.0.0.1:49258 finished, received 10485760 bytes
+[2026-04-07 17:33:22] [INFO] Client 127.0.0.1:49258 disconnected
+[2026-04-07 17:33:23] [INFO] Upload from 127.0.0.1:49260 finished, received 10485760 bytes
+[2026-04-07 17:33:23] [INFO] Client 127.0.0.1:49260 disconnected
+[2026-04-07 17:33:59] [INFO] Client 127.0.0.1:57602 connected
+[2026-04-07 17:33:59] [INFO] Client 127.0.0.1:57612 connected
+[2026-04-07 17:33:59] [INFO] Upload from 127.0.0.1:57602: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:33:59] [INFO] Client 127.0.0.1:57624 connected
+[2026-04-07 17:33:59] [INFO] Client 127.0.0.1:57640 connected
+[2026-04-07 17:33:59] [INFO] Upload from 127.0.0.1:57612: same_file.dat, size=10485760, offset=28672
+[2026-04-07 17:33:59] [INFO] Upload from 127.0.0.1:57624: same_file.dat, size=10485760, offset=61440
+[2026-04-07 17:33:59] [INFO] Client 127.0.0.1:57650 connected
+[2026-04-07 17:33:59] [INFO] Upload from 127.0.0.1:57640: same_file.dat, size=10485760, offset=143360
+[2026-04-07 17:33:59] [INFO] Upload from 127.0.0.1:57650: same_file.dat, size=10485760, offset=192512
+[2026-04-07 17:34:00] [INFO] Upload from 127.0.0.1:57602 finished, received 10485760 bytes
+[2026-04-07 17:34:00] [INFO] Client 127.0.0.1:57602 disconnected
+[2026-04-07 17:34:01] [INFO] Upload from 127.0.0.1:57612 finished, received 10485760 bytes
+[2026-04-07 17:34:01] [INFO] Client 127.0.0.1:57612 disconnected
+[2026-04-07 17:34:01] [INFO] Upload from 127.0.0.1:57624 finished, received 10485760 bytes
+[2026-04-07 17:34:01] [INFO] Client 127.0.0.1:57624 disconnected
+[2026-04-07 17:34:01] [INFO] Upload from 127.0.0.1:57640 finished, received 10485760 bytes
+[2026-04-07 17:34:01] [INFO] Client 127.0.0.1:57640 disconnected
+[2026-04-07 17:34:02] [INFO] Upload from 127.0.0.1:57650 finished, received 10485760 bytes
+[2026-04-07 17:34:02] [INFO] Client 127.0.0.1:57650 disconnected
+[2026-04-07 17:41:51] [INFO] Client 127.0.0.1:51766 connected
+[2026-04-07 17:41:51] [INFO] Client 127.0.0.1:51772 connected
+[2026-04-07 17:41:51] [INFO] Upload from 127.0.0.1:51766: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:41:51] [INFO] Client 127.0.0.1:51774 connected
+[2026-04-07 17:41:51] [INFO] Client 127.0.0.1:51786 connected
+[2026-04-07 17:41:51] [INFO] Upload from 127.0.0.1:51774: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51772: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Client 127.0.0.1:51788 connected
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51788: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51786: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Client 127.0.0.1:51802 connected
+[2026-04-07 17:41:52] [INFO] Client 127.0.0.1:51806 connected
+[2026-04-07 17:41:52] [INFO] Client 127.0.0.1:51820 connected
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51802: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51806: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51820: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Client 127.0.0.1:51824 connected
+[2026-04-07 17:41:52] [INFO] Client 127.0.0.1:51826 connected
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51826: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:41:52] [INFO] Upload from 127.0.0.1:51824: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51788 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51788 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51774 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51774 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51786 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51786 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51820 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51820 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51824 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51824 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51772 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51772 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51826 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51826 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51806 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51806 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51766 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51766 disconnected
+[2026-04-07 17:41:53] [INFO] Upload from 127.0.0.1:51802 finished, received 5242880 bytes
+[2026-04-07 17:41:53] [INFO] Client 127.0.0.1:51802 disconnected
+[2026-04-07 17:41:55] [INFO] Client 127.0.0.1:51828 connected
+[2026-04-07 17:41:55] [INFO] Upload from 127.0.0.1:51828: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:41:55] [INFO] Upload from 127.0.0.1:51828 finished, received 5242880 bytes
+[2026-04-07 17:41:55] [INFO] Client 127.0.0.1:51828 disconnected
+[2026-04-07 17:41:56] [INFO] Client 127.0.0.1:51840 connected
+[2026-04-07 17:41:56] [INFO] Upload from 127.0.0.1:51840: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:41:57] [INFO] Upload from 127.0.0.1:51840 finished, received 5242880 bytes
+[2026-04-07 17:41:57] [INFO] Client 127.0.0.1:51840 disconnected
+[2026-04-07 17:41:58] [INFO] Client 127.0.0.1:51856 connected
+[2026-04-07 17:41:58] [INFO] Upload from 127.0.0.1:51856: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:41:58] [INFO] Upload from 127.0.0.1:51856 finished, received 5242880 bytes
+[2026-04-07 17:41:58] [INFO] Client 127.0.0.1:51856 disconnected
+[2026-04-07 17:41:59] [INFO] Client 127.0.0.1:51866 connected
+[2026-04-07 17:41:59] [INFO] Upload from 127.0.0.1:51866: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:42:00] [INFO] Upload from 127.0.0.1:51866 finished, received 5242880 bytes
+[2026-04-07 17:42:00] [INFO] Client 127.0.0.1:51866 disconnected
+[2026-04-07 17:42:01] [INFO] Client 127.0.0.1:51882 connected
+[2026-04-07 17:42:01] [INFO] Upload from 127.0.0.1:51882: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:42:01] [INFO] Upload from 127.0.0.1:51882 finished, received 5242880 bytes
+[2026-04-07 17:42:01] [INFO] Client 127.0.0.1:51882 disconnected
+[2026-04-07 17:42:02] [INFO] Client 127.0.0.1:42716 connected
+[2026-04-07 17:42:02] [INFO] Upload from 127.0.0.1:42716: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:42:02] [INFO] Upload from 127.0.0.1:42716 finished, received 5242880 bytes
+[2026-04-07 17:42:02] [INFO] Client 127.0.0.1:42716 disconnected
+[2026-04-07 17:42:03] [INFO] Client 127.0.0.1:42720 connected
+[2026-04-07 17:42:03] [INFO] Upload from 127.0.0.1:42720: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:42:04] [INFO] Upload from 127.0.0.1:42720 finished, received 5242880 bytes
+[2026-04-07 17:42:04] [INFO] Client 127.0.0.1:42720 disconnected
+[2026-04-07 17:42:05] [INFO] Client 127.0.0.1:42728 connected
+[2026-04-07 17:42:05] [INFO] Upload from 127.0.0.1:42728: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:42:05] [INFO] Upload from 127.0.0.1:42728 finished, received 5242880 bytes
+[2026-04-07 17:42:05] [INFO] Client 127.0.0.1:42728 disconnected
+[2026-04-07 17:42:06] [INFO] Client 127.0.0.1:42732 connected
+[2026-04-07 17:42:06] [INFO] Upload from 127.0.0.1:42732: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:42:06] [INFO] Upload from 127.0.0.1:42732 finished, received 5242880 bytes
+[2026-04-07 17:42:06] [INFO] Client 127.0.0.1:42732 disconnected
+[2026-04-07 17:42:07] [INFO] Client 127.0.0.1:42738 connected
+[2026-04-07 17:42:07] [INFO] Upload from 127.0.0.1:42738: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:42:08] [INFO] Upload from 127.0.0.1:42738 finished, received 5242880 bytes
+[2026-04-07 17:42:08] [INFO] Client 127.0.0.1:42738 disconnected
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42750 connected
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42752 connected
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42756 connected
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42756: file_3.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42750: file_1.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42764 connected
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42774 connected
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42752: file_2.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42764: file_4.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42774: file_9.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42780 connected
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42780: file_6.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42792 connected
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42792: file_10.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42782 connected
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42782: file_7.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42796 connected
+[2026-04-07 17:42:09] [INFO] Client 127.0.0.1:42788 connected
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42796: file_8.dat, offset=0
+[2026-04-07 17:42:09] [INFO] Download from 127.0.0.1:42788: file_5.dat, offset=0
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42756 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42756 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42780 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42780 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42774 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42774 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42796 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42796 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42750 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42750 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42764 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42764 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42782 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42782 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42752 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42752 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42792 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42792 disconnected
+[2026-04-07 17:42:10] [INFO] Download from 127.0.0.1:42788 finished, sent 5242880 bytes
+[2026-04-07 17:42:10] [INFO] Client 127.0.0.1:42788 disconnected
+[2026-04-07 17:42:13] [INFO] Client 127.0.0.1:59488 connected
+[2026-04-07 17:42:13] [INFO] Upload from 127.0.0.1:59488: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:42:13] [INFO] Upload from 127.0.0.1:59488 finished, received 5242880 bytes
+[2026-04-07 17:42:13] [INFO] Client 127.0.0.1:59488 disconnected
+[2026-04-07 17:42:14] [INFO] Client 127.0.0.1:59496 connected
+[2026-04-07 17:42:14] [INFO] Upload from 127.0.0.1:59496: down_2.dat, size=5242880, offset=0
+[2026-04-07 17:42:15] [INFO] Upload from 127.0.0.1:59496 finished, received 5242880 bytes
+[2026-04-07 17:42:15] [INFO] Client 127.0.0.1:59496 disconnected
+[2026-04-07 17:42:16] [INFO] Client 127.0.0.1:59508 connected
+[2026-04-07 17:42:16] [INFO] Upload from 127.0.0.1:59508: down_3.dat, size=5242880, offset=0
+[2026-04-07 17:42:16] [INFO] Upload from 127.0.0.1:59508 finished, received 5242880 bytes
+[2026-04-07 17:42:16] [INFO] Client 127.0.0.1:59508 disconnected
+[2026-04-07 17:42:17] [INFO] Client 127.0.0.1:59520 connected
+[2026-04-07 17:42:17] [INFO] Upload from 127.0.0.1:59520: down_4.dat, size=5242880, offset=0
+[2026-04-07 17:42:17] [INFO] Upload from 127.0.0.1:59520 finished, received 5242880 bytes
+[2026-04-07 17:42:17] [INFO] Client 127.0.0.1:59520 disconnected
+[2026-04-07 17:42:19] [INFO] Client 127.0.0.1:59522 connected
+[2026-04-07 17:42:19] [INFO] Upload from 127.0.0.1:59522: down_5.dat, size=5242880, offset=0
+[2026-04-07 17:42:19] [INFO] Upload from 127.0.0.1:59522 finished, received 5242880 bytes
+[2026-04-07 17:42:19] [INFO] Client 127.0.0.1:59522 disconnected
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59524 connected
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59534 connected
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59538 connected
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59546 connected
+[2026-04-07 17:42:20] [INFO] Upload from 127.0.0.1:59524: up_4.dat, size=5242880, offset=0
+[2026-04-07 17:42:20] [INFO] Upload from 127.0.0.1:59546: up_3.dat, size=5242880, offset=0
+[2026-04-07 17:42:20] [INFO] Upload from 127.0.0.1:59534: up_2.dat, size=5242880, offset=0
+[2026-04-07 17:42:20] [INFO] Upload from 127.0.0.1:59538: up_5.dat, size=5242880, offset=0
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59550 connected
+[2026-04-07 17:42:20] [INFO] Upload from 127.0.0.1:59550: up_1.dat, size=5242880, offset=0
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59566 connected
+[2026-04-07 17:42:20] [INFO] Download from 127.0.0.1:59566: down_1.dat, offset=0
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59576 connected
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59582 connected
+[2026-04-07 17:42:20] [INFO] Download from 127.0.0.1:59576: down_4.dat, offset=0
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59614 connected
+[2026-04-07 17:42:20] [INFO] Download from 127.0.0.1:59614: down_2.dat, offset=0
+[2026-04-07 17:42:20] [INFO] Download from 127.0.0.1:59582: down_5.dat, offset=0
+[2026-04-07 17:42:20] [INFO] Client 127.0.0.1:59598 connected
+[2026-04-07 17:42:20] [INFO] Download from 127.0.0.1:59598: down_3.dat, offset=0
+[2026-04-07 17:42:21] [INFO] Download from 127.0.0.1:59614 finished, sent 5242880 bytes
+[2026-04-07 17:42:21] [INFO] Client 127.0.0.1:59614 disconnected
+[2026-04-07 17:42:21] [INFO] Download from 127.0.0.1:59598 finished, sent 5242880 bytes
+[2026-04-07 17:42:21] [INFO] Client 127.0.0.1:59598 disconnected
+[2026-04-07 17:42:21] [INFO] Download from 127.0.0.1:59566 finished, sent 5242880 bytes
+[2026-04-07 17:42:21] [INFO] Client 127.0.0.1:59566 disconnected
+[2026-04-07 17:42:21] [INFO] Download from 127.0.0.1:59582 finished, sent 5242880 bytes
+[2026-04-07 17:42:21] [INFO] Client 127.0.0.1:59582 disconnected
+[2026-04-07 17:42:21] [INFO] Upload from 127.0.0.1:59546 finished, received 5242880 bytes
+[2026-04-07 17:42:21] [INFO] Client 127.0.0.1:59546 disconnected
+[2026-04-07 17:42:21] [INFO] Download from 127.0.0.1:59576 finished, sent 5242880 bytes
+[2026-04-07 17:42:21] [INFO] Client 127.0.0.1:59576 disconnected
+[2026-04-07 17:42:22] [INFO] Upload from 127.0.0.1:59538 finished, received 5242880 bytes
+[2026-04-07 17:42:22] [INFO] Client 127.0.0.1:59538 disconnected
+[2026-04-07 17:42:22] [INFO] Upload from 127.0.0.1:59524 finished, received 5242880 bytes
+[2026-04-07 17:42:22] [INFO] Client 127.0.0.1:59524 disconnected
+[2026-04-07 17:42:22] [INFO] Upload from 127.0.0.1:59550 finished, received 5242880 bytes
+[2026-04-07 17:42:22] [INFO] Client 127.0.0.1:59550 disconnected
+[2026-04-07 17:42:22] [INFO] Upload from 127.0.0.1:59534 finished, received 5242880 bytes
+[2026-04-07 17:42:22] [INFO] Client 127.0.0.1:59534 disconnected
+[2026-04-07 17:42:24] [INFO] Client 127.0.0.1:34330 connected
+[2026-04-07 17:42:24] [INFO] Client 127.0.0.1:34342 connected
+[2026-04-07 17:42:24] [INFO] Client 127.0.0.1:34352 connected
+[2026-04-07 17:42:24] [INFO] Upload from 127.0.0.1:34342: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:42:24] [INFO] Upload from 127.0.0.1:34330: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:42:24] [INFO] Upload from 127.0.0.1:34352: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:42:24] [INFO] Client 127.0.0.1:34356 connected
+[2026-04-07 17:42:24] [INFO] Client 127.0.0.1:34366 connected
+[2026-04-07 17:42:24] [INFO] Upload from 127.0.0.1:34366: same_file.dat, size=10485760, offset=233472
+[2026-04-07 17:42:24] [INFO] Upload from 127.0.0.1:34356: same_file.dat, size=10485760, offset=323584
+[2026-04-07 17:42:25] [INFO] Upload from 127.0.0.1:34342 finished, received 10485760 bytes
+[2026-04-07 17:42:25] [INFO] Client 127.0.0.1:34342 disconnected
+[2026-04-07 17:42:25] [INFO] Upload from 127.0.0.1:34330 finished, received 10485760 bytes
+[2026-04-07 17:42:25] [INFO] Client 127.0.0.1:34330 disconnected
+[2026-04-07 17:42:25] [INFO] Upload from 127.0.0.1:34352 finished, received 10485760 bytes
+[2026-04-07 17:42:25] [INFO] Client 127.0.0.1:34352 disconnected
+[2026-04-07 17:42:26] [INFO] Upload from 127.0.0.1:34366 finished, received 10485760 bytes
+[2026-04-07 17:42:26] [INFO] Client 127.0.0.1:34366 disconnected
+[2026-04-07 17:42:26] [INFO] Upload from 127.0.0.1:34356 finished, received 10485760 bytes
+[2026-04-07 17:42:26] [INFO] Client 127.0.0.1:34356 disconnected
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50838 connected
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50822 connected
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50852 connected
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50838: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50822: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50868 connected
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50870 connected
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50882 connected
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50868: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50886 connected
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50886: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50896 connected
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50898 connected
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50870: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50852: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50882: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50898: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50896: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:43:49] [INFO] Client 127.0.0.1:50904 connected
+[2026-04-07 17:43:49] [INFO] Upload from 127.0.0.1:50904: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50870 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50870 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50886 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50886 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50898 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50898 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50838 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50838 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50868 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50868 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50852 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50852 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50904 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50904 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50896 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50896 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50822 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50822 disconnected
+[2026-04-07 17:43:50] [INFO] Upload from 127.0.0.1:50882 finished, received 5242880 bytes
+[2026-04-07 17:43:50] [INFO] Client 127.0.0.1:50882 disconnected
+[2026-04-07 17:43:52] [INFO] Client 127.0.0.1:36528 connected
+[2026-04-07 17:43:52] [INFO] Upload from 127.0.0.1:36528: file_1.dat, size=5242880, offset=0
+[2026-04-07 17:43:52] [INFO] Upload from 127.0.0.1:36528 finished, received 5242880 bytes
+[2026-04-07 17:43:52] [INFO] Client 127.0.0.1:36528 disconnected
+[2026-04-07 17:43:53] [INFO] Client 127.0.0.1:36538 connected
+[2026-04-07 17:43:53] [INFO] Upload from 127.0.0.1:36538: file_2.dat, size=5242880, offset=0
+[2026-04-07 17:43:54] [INFO] Upload from 127.0.0.1:36538 finished, received 5242880 bytes
+[2026-04-07 17:43:54] [INFO] Client 127.0.0.1:36538 disconnected
+[2026-04-07 17:43:55] [INFO] Client 127.0.0.1:36554 connected
+[2026-04-07 17:43:55] [INFO] Upload from 127.0.0.1:36554: file_3.dat, size=5242880, offset=0
+[2026-04-07 17:43:55] [INFO] Upload from 127.0.0.1:36554 finished, received 5242880 bytes
+[2026-04-07 17:43:55] [INFO] Client 127.0.0.1:36554 disconnected
+[2026-04-07 17:43:56] [INFO] Client 127.0.0.1:36564 connected
+[2026-04-07 17:43:56] [INFO] Upload from 127.0.0.1:36564: file_4.dat, size=5242880, offset=0
+[2026-04-07 17:43:56] [INFO] Upload from 127.0.0.1:36564 finished, received 5242880 bytes
+[2026-04-07 17:43:56] [INFO] Client 127.0.0.1:36564 disconnected
+[2026-04-07 17:43:58] [INFO] Client 127.0.0.1:36574 connected
+[2026-04-07 17:43:58] [INFO] Upload from 127.0.0.1:36574: file_5.dat, size=5242880, offset=0
+[2026-04-07 17:43:58] [INFO] Upload from 127.0.0.1:36574 finished, received 5242880 bytes
+[2026-04-07 17:43:58] [INFO] Client 127.0.0.1:36574 disconnected
+[2026-04-07 17:43:59] [INFO] Client 127.0.0.1:36576 connected
+[2026-04-07 17:43:59] [INFO] Upload from 127.0.0.1:36576: file_6.dat, size=5242880, offset=0
+[2026-04-07 17:43:59] [INFO] Upload from 127.0.0.1:36576 finished, received 5242880 bytes
+[2026-04-07 17:43:59] [INFO] Client 127.0.0.1:36576 disconnected
+[2026-04-07 17:44:00] [INFO] Client 127.0.0.1:36578 connected
+[2026-04-07 17:44:00] [INFO] Upload from 127.0.0.1:36578: file_7.dat, size=5242880, offset=0
+[2026-04-07 17:44:01] [INFO] Upload from 127.0.0.1:36578 finished, received 5242880 bytes
+[2026-04-07 17:44:01] [INFO] Client 127.0.0.1:36578 disconnected
+[2026-04-07 17:44:02] [INFO] Client 127.0.0.1:56998 connected
+[2026-04-07 17:44:02] [INFO] Upload from 127.0.0.1:56998: file_8.dat, size=5242880, offset=0
+[2026-04-07 17:44:02] [INFO] Upload from 127.0.0.1:56998 finished, received 5242880 bytes
+[2026-04-07 17:44:02] [INFO] Client 127.0.0.1:56998 disconnected
+[2026-04-07 17:44:03] [INFO] Client 127.0.0.1:57000 connected
+[2026-04-07 17:44:03] [INFO] Upload from 127.0.0.1:57000: file_9.dat, size=5242880, offset=0
+[2026-04-07 17:44:03] [INFO] Upload from 127.0.0.1:57000 finished, received 5242880 bytes
+[2026-04-07 17:44:03] [INFO] Client 127.0.0.1:57000 disconnected
+[2026-04-07 17:44:04] [INFO] Client 127.0.0.1:57016 connected
+[2026-04-07 17:44:04] [INFO] Upload from 127.0.0.1:57016: file_10.dat, size=5242880, offset=0
+[2026-04-07 17:44:05] [INFO] Upload from 127.0.0.1:57016 finished, received 5242880 bytes
+[2026-04-07 17:44:05] [INFO] Client 127.0.0.1:57016 disconnected
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57026 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57026: file_4.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57040 connected
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57046 connected
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57050 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57050: file_2.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57054 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57054: file_6.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57040: file_1.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57062 connected
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57078 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57046: file_3.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57080 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57080: file_7.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57078: file_8.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57062: file_5.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57084 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57084: file_9.dat, offset=0
+[2026-04-07 17:44:06] [INFO] Client 127.0.0.1:57098 connected
+[2026-04-07 17:44:06] [INFO] Download from 127.0.0.1:57098: file_10.dat, offset=0
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57054 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57054 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57046 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57046 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57078 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57078 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57062 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57062 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57098 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57098 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57050 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57050 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57040 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57040 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57080 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57080 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57026 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57026 disconnected
+[2026-04-07 17:44:07] [INFO] Download from 127.0.0.1:57084 finished, sent 5242880 bytes
+[2026-04-07 17:44:07] [INFO] Client 127.0.0.1:57084 disconnected
+[2026-04-07 17:44:10] [INFO] Client 127.0.0.1:57114 connected
+[2026-04-07 17:44:10] [INFO] Upload from 127.0.0.1:57114: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:44:10] [INFO] Upload from 127.0.0.1:57114 finished, received 5242880 bytes
+[2026-04-07 17:44:10] [INFO] Client 127.0.0.1:57114 disconnected
+[2026-04-07 17:44:11] [INFO] Client 127.0.0.1:57122 connected
+[2026-04-07 17:44:11] [INFO] Upload from 127.0.0.1:57122: down_2.dat, size=5242880, offset=0
+[2026-04-07 17:44:12] [INFO] Upload from 127.0.0.1:57122 finished, received 5242880 bytes
+[2026-04-07 17:44:12] [INFO] Client 127.0.0.1:57122 disconnected
+[2026-04-07 17:44:13] [INFO] Client 127.0.0.1:40264 connected
+[2026-04-07 17:44:13] [INFO] Upload from 127.0.0.1:40264: down_3.dat, size=5242880, offset=0
+[2026-04-07 17:44:13] [INFO] Upload from 127.0.0.1:40264 finished, received 5242880 bytes
+[2026-04-07 17:44:13] [INFO] Client 127.0.0.1:40264 disconnected
+[2026-04-07 17:44:14] [INFO] Client 127.0.0.1:40276 connected
+[2026-04-07 17:44:14] [INFO] Upload from 127.0.0.1:40276: down_4.dat, size=5242880, offset=0
+[2026-04-07 17:44:14] [INFO] Upload from 127.0.0.1:40276 finished, received 5242880 bytes
+[2026-04-07 17:44:14] [INFO] Client 127.0.0.1:40276 disconnected
+[2026-04-07 17:44:15] [INFO] Client 127.0.0.1:40280 connected
+[2026-04-07 17:44:15] [INFO] Upload from 127.0.0.1:40280: down_5.dat, size=5242880, offset=0
+[2026-04-07 17:44:16] [INFO] Upload from 127.0.0.1:40280 finished, received 5242880 bytes
+[2026-04-07 17:44:16] [INFO] Client 127.0.0.1:40280 disconnected
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40284 connected
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40300 connected
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40310 connected
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40314 connected
+[2026-04-07 17:44:17] [INFO] Upload from 127.0.0.1:40284: up_5.dat, size=5242880, offset=0
+[2026-04-07 17:44:17] [INFO] Upload from 127.0.0.1:40314: up_2.dat, size=5242880, offset=0
+[2026-04-07 17:44:17] [INFO] Upload from 127.0.0.1:40300: up_3.dat, size=5242880, offset=0
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40324 connected
+[2026-04-07 17:44:17] [INFO] Upload from 127.0.0.1:40310: up_4.dat, size=5242880, offset=0
+[2026-04-07 17:44:17] [INFO] Upload from 127.0.0.1:40324: up_1.dat, size=5242880, offset=0
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40334 connected
+[2026-04-07 17:44:17] [INFO] Download from 127.0.0.1:40334: down_2.dat, offset=0
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40346 connected
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40354 connected
+[2026-04-07 17:44:17] [INFO] Download from 127.0.0.1:40346: down_3.dat, offset=0
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40356 connected
+[2026-04-07 17:44:17] [INFO] Client 127.0.0.1:40366 connected
+[2026-04-07 17:44:17] [INFO] Download from 127.0.0.1:40366: down_4.dat, offset=0
+[2026-04-07 17:44:17] [INFO] Download from 127.0.0.1:40354: down_5.dat, offset=0
+[2026-04-07 17:44:17] [INFO] Download from 127.0.0.1:40356: down_1.dat, offset=0
+[2026-04-07 17:44:18] [INFO] Download from 127.0.0.1:40366 finished, sent 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40366 disconnected
+[2026-04-07 17:44:18] [INFO] Download from 127.0.0.1:40354 finished, sent 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40354 disconnected
+[2026-04-07 17:44:18] [INFO] Download from 127.0.0.1:40356 finished, sent 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40356 disconnected
+[2026-04-07 17:44:18] [INFO] Download from 127.0.0.1:40346 finished, sent 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40346 disconnected
+[2026-04-07 17:44:18] [INFO] Download from 127.0.0.1:40334 finished, sent 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40334 disconnected
+[2026-04-07 17:44:18] [INFO] Upload from 127.0.0.1:40300 finished, received 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40300 disconnected
+[2026-04-07 17:44:18] [INFO] Upload from 127.0.0.1:40324 finished, received 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40324 disconnected
+[2026-04-07 17:44:18] [INFO] Upload from 127.0.0.1:40284 finished, received 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40284 disconnected
+[2026-04-07 17:44:18] [INFO] Upload from 127.0.0.1:40314 finished, received 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Upload from 127.0.0.1:40310 finished, received 5242880 bytes
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40314 disconnected
+[2026-04-07 17:44:18] [INFO] Client 127.0.0.1:40310 disconnected
+[2026-04-07 17:44:21] [INFO] Client 127.0.0.1:40372 connected
+[2026-04-07 17:44:21] [INFO] Upload from 127.0.0.1:40372: same_file.dat, size=10485760, offset=0
+[2026-04-07 17:44:21] [INFO] Client 127.0.0.1:40378 connected
+[2026-04-07 17:44:21] [INFO] Client 127.0.0.1:40386 connected
+[2026-04-07 17:44:21] [INFO] Upload from 127.0.0.1:40378: same_file.dat, size=10485760, offset=57344
+[2026-04-07 17:44:21] [INFO] Upload from 127.0.0.1:40386: same_file.dat, size=10485760, offset=61440
+[2026-04-07 17:44:21] [INFO] Client 127.0.0.1:40398 connected
+[2026-04-07 17:44:21] [INFO] Client 127.0.0.1:40412 connected
+[2026-04-07 17:44:21] [INFO] Upload from 127.0.0.1:40398: same_file.dat, size=10485760, offset=233472
+[2026-04-07 17:44:21] [INFO] Upload from 127.0.0.1:40412: same_file.dat, size=10485760, offset=233472
+[2026-04-07 17:44:22] [INFO] Upload from 127.0.0.1:40372 finished, received 10485760 bytes
+[2026-04-07 17:44:22] [INFO] Client 127.0.0.1:40372 disconnected
+[2026-04-07 17:44:22] [INFO] Upload from 127.0.0.1:40378 finished, received 10485760 bytes
+[2026-04-07 17:44:22] [INFO] Client 127.0.0.1:40378 disconnected
+[2026-04-07 17:44:22] [INFO] Upload from 127.0.0.1:40386 finished, received 10485760 bytes
+[2026-04-07 17:44:22] [INFO] Client 127.0.0.1:40386 disconnected
+[2026-04-07 17:44:23] [INFO] Upload from 127.0.0.1:40398 finished, received 10485760 bytes
+[2026-04-07 17:44:23] [INFO] Client 127.0.0.1:40398 disconnected
+[2026-04-07 17:44:23] [INFO] Upload from 127.0.0.1:40412 finished, received 10485760 bytes
+[2026-04-07 17:44:23] [INFO] Client 127.0.0.1:40412 disconnected
+[2026-04-07 17:53:24] [INFO] Client 127.0.0.1:54910 connected
+[2026-04-07 17:53:24] [INFO] Upload from 127.0.0.1:54910: down_1.dat, size=5242880, offset=0
+[2026-04-07 17:53:24] [INFO] Upload from 127.0.0.1:54910 finished, received 5242880 bytes
+[2026-04-07 17:53:24] [INFO] Client 127.0.0.1:54910 disconnected
+[2026-04-07 17:53:25] [INFO] Client 127.0.0.1:54926 connected
+[2026-04-07 17:53:25] [INFO] Upload from 127.0.0.1:54926: down_2.dat, size=5242880, offset=0
+[2026-04-07 17:53:25] [INFO] Upload from 127.0.0.1:54926 finished, received 5242880 bytes
+[2026-04-07 17:53:25] [INFO] Client 127.0.0.1:54926 disconnected
+[2026-04-07 17:53:26] [INFO] Client 127.0.0.1:54938 connected
+[2026-04-07 17:53:26] [INFO] Upload from 127.0.0.1:54938: down_3.dat, size=5242880, offset=0
+[2026-04-07 17:53:26] [INFO] Upload from 127.0.0.1:54938 finished, received 5242880 bytes
+[2026-04-07 17:53:26] [INFO] Client 127.0.0.1:54938 disconnected
+[2026-04-07 17:53:28] [INFO] Client 127.0.0.1:54950 connected
+[2026-04-07 17:53:28] [INFO] Upload from 127.0.0.1:54950: down_4.dat, size=5242880, offset=0
+[2026-04-07 17:53:28] [INFO] Upload from 127.0.0.1:54950 finished, received 5242880 bytes
+[2026-04-07 17:53:28] [INFO] Client 127.0.0.1:54950 disconnected
+[2026-04-07 17:53:29] [INFO] Client 127.0.0.1:54966 connected
+[2026-04-07 17:53:29] [INFO] Upload from 127.0.0.1:54966: down_5.dat, size=5242880, offset=0
+[2026-04-07 17:53:29] [INFO] Upload from 127.0.0.1:54966 finished, received 5242880 bytes
+[2026-04-07 17:53:29] [INFO] Client 127.0.0.1:54966 disconnected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34396 connected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34396 disconnected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34408 connected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34408 disconnected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34424 connected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34424 disconnected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34430 connected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34430 disconnected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34432 connected
+[2026-04-07 17:55:49] [INFO] Client 127.0.0.1:34432 disconnected
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34446 connected
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34472 connected
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34456 connected
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34446: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34472: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34456: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34474 connected
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34476 connected
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34474: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34476: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34474 finished, received 5242880 bytes
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34474 disconnected
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34456 finished, received 5242880 bytes
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34456 disconnected
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34446 finished, received 5242880 bytes
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34446 disconnected
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34476 finished, received 5242880 bytes
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34476 disconnected
+[2026-04-07 17:55:50] [INFO] Upload from 127.0.0.1:34472 finished, received 5242880 bytes
+[2026-04-07 17:55:50] [INFO] Client 127.0.0.1:34472 disconnected
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46546 connected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46546: down_2.dat, offset=3145728
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46554 connected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46554: down_1.dat, offset=3145728
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46568 connected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46568: down_3.dat, offset=3145728
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46576 connected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46576: down_5.dat, offset=3145728
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46592 connected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46592: down_4.dat, offset=3145728
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46554 finished, sent 5242880 bytes
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46554 disconnected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46546 finished, sent 5242880 bytes
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46546 disconnected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46576 finished, sent 5242880 bytes
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46576 disconnected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46568 finished, sent 5242880 bytes
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46568 disconnected
+[2026-04-07 17:55:52] [INFO] Download from 127.0.0.1:46592 finished, sent 5242880 bytes
+[2026-04-07 17:55:52] [INFO] Client 127.0.0.1:46592 disconnected
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46606 connected
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46606: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46618 connected
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46632 connected
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46618: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46632: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46638 connected
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46638: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46642 connected
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46642: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46658 connected
+[2026-04-07 17:55:53] [INFO] Download from 127.0.0.1:46658: down_1.dat, offset=3145728
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46632 finished, received 5242880 bytes
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46632 disconnected
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46670 connected
+[2026-04-07 17:55:53] [INFO] Download from 127.0.0.1:46670: down_3.dat, offset=3145728
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46674 connected
+[2026-04-07 17:55:53] [INFO] Download from 127.0.0.1:46674: down_2.dat, offset=3145728
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46606 finished, received 5242880 bytes
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46606 disconnected
+[2026-04-07 17:55:53] [INFO] Download from 127.0.0.1:46658 finished, sent 5242880 bytes
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46658 disconnected
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46618 finished, received 5242880 bytes
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46618 disconnected
+[2026-04-07 17:55:53] [INFO] Upload from 127.0.0.1:46638 finished, received 5242880 bytes
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46638 disconnected
+[2026-04-07 17:55:53] [INFO] Download from 127.0.0.1:46670 finished, sent 5242880 bytes
+[2026-04-07 17:55:53] [INFO] Client 127.0.0.1:46670 disconnected
+[2026-04-07 17:55:54] [INFO] Download from 127.0.0.1:46674 finished, sent 5242880 bytes
+[2026-04-07 17:55:54] [INFO] Client 127.0.0.1:46674 disconnected
+[2026-04-07 17:55:54] [INFO] Client 127.0.0.1:46678 connected
+[2026-04-07 17:55:54] [INFO] Download from 127.0.0.1:46678: down_4.dat, offset=3145728
+[2026-04-07 17:55:54] [INFO] Client 127.0.0.1:46682 connected
+[2026-04-07 17:55:54] [INFO] Upload from 127.0.0.1:46642 finished, received 5242880 bytes
+[2026-04-07 17:55:54] [INFO] Client 127.0.0.1:46642 disconnected
+[2026-04-07 17:55:54] [INFO] Download from 127.0.0.1:46682: down_5.dat, offset=3145728
+[2026-04-07 17:55:54] [INFO] Download from 127.0.0.1:46678 finished, sent 5242880 bytes
+[2026-04-07 17:55:54] [INFO] Client 127.0.0.1:46678 disconnected
+[2026-04-07 17:55:54] [INFO] Download from 127.0.0.1:46682 finished, sent 5242880 bytes
+[2026-04-07 17:55:54] [INFO] Client 127.0.0.1:46682 disconnected
+[2026-04-07 17:56:30] [INFO] Client 127.0.0.1:58498 connected
+[2026-04-07 17:56:30] [INFO] Client 127.0.0.1:58498 disconnected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58500 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58500 disconnected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58502 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58502 disconnected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58514 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58514 disconnected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58518 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58518 disconnected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58528 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58540 connected
+[2026-04-07 17:56:31] [INFO] Upload from 127.0.0.1:58528: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58552 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58558 connected
+[2026-04-07 17:56:31] [INFO] Client 127.0.0.1:58568 connected
+[2026-04-07 17:56:31] [INFO] Upload from 127.0.0.1:58552: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:31] [INFO] Upload from 127.0.0.1:58540: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:31] [INFO] Upload from 127.0.0.1:58558: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:31] [INFO] Upload from 127.0.0.1:58568: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:32] [INFO] Upload from 127.0.0.1:58540 finished, received 5242880 bytes
+[2026-04-07 17:56:32] [INFO] Client 127.0.0.1:58540 disconnected
+[2026-04-07 17:56:32] [INFO] Upload from 127.0.0.1:58528 finished, received 5242880 bytes
+[2026-04-07 17:56:32] [INFO] Client 127.0.0.1:58528 disconnected
+[2026-04-07 17:56:32] [INFO] Upload from 127.0.0.1:58558 finished, received 5242880 bytes
+[2026-04-07 17:56:32] [INFO] Client 127.0.0.1:58558 disconnected
+[2026-04-07 17:56:32] [INFO] Upload from 127.0.0.1:58552 finished, received 5242880 bytes
+[2026-04-07 17:56:32] [INFO] Client 127.0.0.1:58552 disconnected
+[2026-04-07 17:56:32] [INFO] Upload from 127.0.0.1:58568 finished, received 5242880 bytes
+[2026-04-07 17:56:32] [INFO] Client 127.0.0.1:58568 disconnected
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58420 connected
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58424 connected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58424: down_1.dat, offset=3145728
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58420: down_4.dat, offset=3145728
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58436 connected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58436: down_2.dat, offset=3145728
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58440 connected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58440: down_5.dat, offset=3145728
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58456 connected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58456: down_3.dat, offset=3145728
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58436 finished, sent 5242880 bytes
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58436 disconnected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58420 finished, sent 5242880 bytes
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58420 disconnected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58440 finished, sent 5242880 bytes
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58440 disconnected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58424 finished, sent 5242880 bytes
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58424 disconnected
+[2026-04-07 17:56:33] [INFO] Download from 127.0.0.1:58456 finished, sent 5242880 bytes
+[2026-04-07 17:56:33] [INFO] Client 127.0.0.1:58456 disconnected
+[2026-04-07 17:56:34] [INFO] Client 127.0.0.1:58468 connected
+[2026-04-07 17:56:34] [INFO] Upload from 127.0.0.1:58468: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:34] [INFO] Client 127.0.0.1:58472 connected
+[2026-04-07 17:56:34] [INFO] Upload from 127.0.0.1:58472: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:34] [INFO] Client 127.0.0.1:58474 connected
+[2026-04-07 17:56:34] [INFO] Client 127.0.0.1:58482 connected
+[2026-04-07 17:56:34] [INFO] Upload from 127.0.0.1:58474: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:34] [INFO] Upload from 127.0.0.1:58482: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58488 connected
+[2026-04-07 17:56:35] [INFO] Upload from 127.0.0.1:58488: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 17:56:35] [INFO] Upload from 127.0.0.1:58468 finished, received 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58468 disconnected
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58498 connected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58498: down_1.dat, offset=3145728
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58502 connected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58502: down_2.dat, offset=3145728
+[2026-04-07 17:56:35] [INFO] Upload from 127.0.0.1:58472 finished, received 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58472 disconnected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58502 finished, sent 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58502 disconnected
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58506 connected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58506: down_3.dat, offset=3145728
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58498 finished, sent 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58498 disconnected
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58508 connected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58508: down_4.dat, offset=3145728
+[2026-04-07 17:56:35] [INFO] Upload from 127.0.0.1:58474 finished, received 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58474 disconnected
+[2026-04-07 17:56:35] [INFO] Upload from 127.0.0.1:58482 finished, received 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58482 disconnected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58506 finished, sent 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58506 disconnected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58508 finished, sent 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58508 disconnected
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58518 connected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58518: down_5.dat, offset=3145728
+[2026-04-07 17:56:35] [INFO] Upload from 127.0.0.1:58488 finished, received 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58488 disconnected
+[2026-04-07 17:56:35] [INFO] Download from 127.0.0.1:58518 finished, sent 5242880 bytes
+[2026-04-07 17:56:35] [INFO] Client 127.0.0.1:58518 disconnected
+[2026-04-07 18:00:49] [INFO] Client 127.0.0.1:54132 connected
+[2026-04-07 18:00:49] [INFO] Upload from 127.0.0.1:54132: down_1.dat, size=5242880, offset=0
+[2026-04-07 18:00:50] [INFO] Upload from 127.0.0.1:54132 finished, received 5242880 bytes
+[2026-04-07 18:00:50] [INFO] Client 127.0.0.1:54132 disconnected
+[2026-04-07 18:00:51] [INFO] Client 127.0.0.1:54142 connected
+[2026-04-07 18:00:51] [INFO] Upload from 127.0.0.1:54142: down_2.dat, size=5242880, offset=0
+[2026-04-07 18:00:51] [INFO] Upload from 127.0.0.1:54142 finished, received 5242880 bytes
+[2026-04-07 18:00:51] [INFO] Client 127.0.0.1:54142 disconnected
+[2026-04-07 18:00:52] [INFO] Client 127.0.0.1:58998 connected
+[2026-04-07 18:00:52] [INFO] Upload from 127.0.0.1:58998: down_3.dat, size=5242880, offset=0
+[2026-04-07 18:00:52] [INFO] Upload from 127.0.0.1:58998 finished, received 5242880 bytes
+[2026-04-07 18:00:52] [INFO] Client 127.0.0.1:58998 disconnected
+[2026-04-07 18:00:53] [INFO] Client 127.0.0.1:59012 connected
+[2026-04-07 18:00:53] [INFO] Upload from 127.0.0.1:59012: down_4.dat, size=5242880, offset=0
+[2026-04-07 18:00:54] [INFO] Upload from 127.0.0.1:59012 finished, received 5242880 bytes
+[2026-04-07 18:00:54] [INFO] Client 127.0.0.1:59012 disconnected
+[2026-04-07 18:00:55] [INFO] Client 127.0.0.1:59018 connected
+[2026-04-07 18:00:55] [INFO] Upload from 127.0.0.1:59018: down_5.dat, size=5242880, offset=0
+[2026-04-07 18:00:55] [INFO] Upload from 127.0.0.1:59018 finished, received 5242880 bytes
+[2026-04-07 18:00:55] [INFO] Client 127.0.0.1:59018 disconnected
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59032 connected
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59036 connected
+[2026-04-07 18:00:56] [INFO] Upload from 127.0.0.1:59036: up_2.dat, size=5242880, offset=0
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59048 connected
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59056 connected
+[2026-04-07 18:00:56] [INFO] Upload from 127.0.0.1:59032: up_1.dat, size=5242880, offset=0
+[2026-04-07 18:00:56] [INFO] Upload from 127.0.0.1:59048: up_3.dat, size=5242880, offset=0
+[2026-04-07 18:00:56] [INFO] Upload from 127.0.0.1:59056: up_4.dat, size=5242880, offset=0
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59060 connected
+[2026-04-07 18:00:56] [INFO] Upload from 127.0.0.1:59060: up_5.dat, size=5242880, offset=0
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59074 connected
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59088 connected
+[2026-04-07 18:00:56] [INFO] Download from 127.0.0.1:59088: down_3.dat, offset=0
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59100 connected
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59114 connected
+[2026-04-07 18:00:56] [INFO] Download from 127.0.0.1:59114: down_4.dat, offset=0
+[2026-04-07 18:00:56] [INFO] Client 127.0.0.1:59126 connected
+[2026-04-07 18:00:56] [INFO] Download from 127.0.0.1:59100: down_5.dat, offset=0
+[2026-04-07 18:00:56] [INFO] Download from 127.0.0.1:59126: down_2.dat, offset=0
+[2026-04-07 18:00:56] [INFO] Download from 127.0.0.1:59074: down_1.dat, offset=0
+[2026-04-07 18:00:57] [INFO] Download from 127.0.0.1:59126 finished, sent 5242880 bytes
+[2026-04-07 18:00:57] [INFO] Client 127.0.0.1:59126 disconnected
+[2026-04-07 18:00:57] [INFO] Download from 127.0.0.1:59114 finished, sent 5242880 bytes
+[2026-04-07 18:00:57] [INFO] Client 127.0.0.1:59114 disconnected
+[2026-04-07 18:00:57] [INFO] Download from 127.0.0.1:59088 finished, sent 5242880 bytes
+[2026-04-07 18:00:57] [INFO] Client 127.0.0.1:59088 disconnected
+[2026-04-07 18:00:58] [INFO] Download from 127.0.0.1:59074 finished, sent 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59074 disconnected
+[2026-04-07 18:00:58] [INFO] Download from 127.0.0.1:59100 finished, sent 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59100 disconnected
+[2026-04-07 18:00:58] [INFO] Upload from 127.0.0.1:59036 finished, received 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59036 disconnected
+[2026-04-07 18:00:58] [INFO] Upload from 127.0.0.1:59032 finished, received 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59032 disconnected
+[2026-04-07 18:00:58] [INFO] Upload from 127.0.0.1:59060 finished, received 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59060 disconnected
+[2026-04-07 18:00:58] [INFO] Upload from 127.0.0.1:59056 finished, received 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59056 disconnected
+[2026-04-07 18:00:58] [INFO] Upload from 127.0.0.1:59048 finished, received 5242880 bytes
+[2026-04-07 18:00:58] [INFO] Client 127.0.0.1:59048 disconnected
+[2026-04-07 18:49:28] [INFO] Client 127.0.0.1:49182 connected
+[2026-04-07 18:49:28] [INFO] Upload from 127.0.0.1:49182: down_1.dat, size=5242880, offset=0
+[2026-04-07 18:49:28] [INFO] Upload from 127.0.0.1:49182 finished, received 5242880 bytes
+[2026-04-07 18:49:28] [INFO] Client 127.0.0.1:49182 disconnected
+[2026-04-07 18:49:29] [INFO] Client 127.0.0.1:49188 connected
+[2026-04-07 18:49:29] [INFO] Upload from 127.0.0.1:49188: down_2.dat, size=5242880, offset=0
+[2026-04-07 18:49:29] [INFO] Upload from 127.0.0.1:49188 finished, received 5242880 bytes
+[2026-04-07 18:49:29] [INFO] Client 127.0.0.1:49188 disconnected
+[2026-04-07 18:49:30] [INFO] Client 127.0.0.1:49194 connected
+[2026-04-07 18:49:30] [INFO] Upload from 127.0.0.1:49194: down_3.dat, size=5242880, offset=0
+[2026-04-07 18:49:31] [INFO] Upload from 127.0.0.1:49194 finished, received 5242880 bytes
+[2026-04-07 18:49:31] [INFO] Client 127.0.0.1:49194 disconnected
+[2026-04-07 18:49:32] [INFO] Client 127.0.0.1:54428 connected
+[2026-04-07 18:49:32] [INFO] Upload from 127.0.0.1:54428: down_4.dat, size=5242880, offset=0
+[2026-04-07 18:49:32] [INFO] Upload from 127.0.0.1:54428 finished, received 5242880 bytes
+[2026-04-07 18:49:32] [INFO] Client 127.0.0.1:54428 disconnected
+[2026-04-07 18:49:33] [INFO] Client 127.0.0.1:54432 connected
+[2026-04-07 18:49:33] [INFO] Upload from 127.0.0.1:54432: down_5.dat, size=5242880, offset=0
+[2026-04-07 18:49:33] [INFO] Upload from 127.0.0.1:54432 finished, received 5242880 bytes
+[2026-04-07 18:49:33] [INFO] Client 127.0.0.1:54432 disconnected
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54448 connected
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54436 connected
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54462 connected
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54464 connected
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54436: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54476 connected
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54476: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54464: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54448: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54462: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54464 finished, received 5242880 bytes
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54464 disconnected
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54436 finished, received 5242880 bytes
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54436 disconnected
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54476 finished, received 5242880 bytes
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54476 disconnected
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54462 finished, received 5242880 bytes
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54462 disconnected
+[2026-04-07 18:49:35] [INFO] Upload from 127.0.0.1:54448 finished, received 5242880 bytes
+[2026-04-07 18:49:35] [INFO] Client 127.0.0.1:54448 disconnected
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54482 connected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54482: down_1.dat, offset=3145728
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54490 connected
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54504 connected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54490: down_4.dat, offset=3145728
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54504: down_2.dat, offset=3145728
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54516 connected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54516: down_5.dat, offset=3145728
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54528 connected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54528: down_3.dat, offset=3145728
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54504 finished, sent 5242880 bytes
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54504 disconnected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54482 finished, sent 5242880 bytes
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54482 disconnected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54490 finished, sent 5242880 bytes
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54490 disconnected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54516 finished, sent 5242880 bytes
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54516 disconnected
+[2026-04-07 18:49:37] [INFO] Download from 127.0.0.1:54528 finished, sent 5242880 bytes
+[2026-04-07 18:49:37] [INFO] Client 127.0.0.1:54528 disconnected
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54532 connected
+[2026-04-07 18:49:38] [INFO] Upload from 127.0.0.1:54532: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54538 connected
+[2026-04-07 18:49:38] [INFO] Upload from 127.0.0.1:54538: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54552 connected
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54568 connected
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54574 connected
+[2026-04-07 18:49:38] [INFO] Upload from 127.0.0.1:54552: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:38] [INFO] Upload from 127.0.0.1:54568: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:38] [INFO] Upload from 127.0.0.1:54574: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54588 connected
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54598 connected
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54600 connected
+[2026-04-07 18:49:38] [INFO] Download from 127.0.0.1:54600: down_4.dat, offset=3145728
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54620 connected
+[2026-04-07 18:49:38] [INFO] Download from 127.0.0.1:54620: down_1.dat, offset=3145728
+[2026-04-07 18:49:38] [INFO] Download from 127.0.0.1:54598: down_5.dat, offset=3145728
+[2026-04-07 18:49:38] [INFO] Download from 127.0.0.1:54588: down_2.dat, offset=3145728
+[2026-04-07 18:49:38] [INFO] Client 127.0.0.1:54616 connected
+[2026-04-07 18:49:38] [INFO] Download from 127.0.0.1:54616: down_3.dat, offset=3145728
+[2026-04-07 18:49:39] [INFO] Download from 127.0.0.1:54600 finished, sent 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54600 disconnected
+[2026-04-07 18:49:39] [INFO] Upload from 127.0.0.1:54532 finished, received 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54532 disconnected
+[2026-04-07 18:49:39] [INFO] Download from 127.0.0.1:54598 finished, sent 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54598 disconnected
+[2026-04-07 18:49:39] [INFO] Download from 127.0.0.1:54616 finished, sent 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54616 disconnected
+[2026-04-07 18:49:39] [INFO] Download from 127.0.0.1:54620 finished, sent 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54620 disconnected
+[2026-04-07 18:49:39] [INFO] Upload from 127.0.0.1:54568 finished, received 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54568 disconnected
+[2026-04-07 18:49:39] [INFO] Download from 127.0.0.1:54588 finished, sent 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54588 disconnected
+[2026-04-07 18:49:39] [INFO] Upload from 127.0.0.1:54538 finished, received 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54538 disconnected
+[2026-04-07 18:49:39] [INFO] Upload from 127.0.0.1:54552 finished, received 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54552 disconnected
+[2026-04-07 18:49:39] [INFO] Upload from 127.0.0.1:54574 finished, received 5242880 bytes
+[2026-04-07 18:49:39] [INFO] Client 127.0.0.1:54574 disconnected
+[2026-04-07 18:50:44] [INFO] Client 127.0.0.1:32862 connected
+[2026-04-07 18:50:44] [INFO] Client 127.0.0.1:32862 disconnected
+[2026-04-07 18:50:44] [INFO] Client 127.0.0.1:32878 connected
+[2026-04-07 18:50:44] [INFO] Client 127.0.0.1:32878 disconnected
+[2026-04-07 18:50:44] [INFO] Client 127.0.0.1:32894 connected
+[2026-04-07 18:50:44] [INFO] Client 127.0.0.1:32894 disconnected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32908 connected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32908 disconnected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32922 connected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32922 disconnected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32936 connected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32940 connected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32946 connected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32950 connected
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32958 connected
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32936: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32946: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32958: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32940: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32950: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32940 finished, received 5242880 bytes
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32940 disconnected
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32946 finished, received 5242880 bytes
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32946 disconnected
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32936 finished, received 5242880 bytes
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32936 disconnected
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32950 finished, received 5242880 bytes
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32950 disconnected
+[2026-04-07 18:50:45] [INFO] Upload from 127.0.0.1:32958 finished, received 5242880 bytes
+[2026-04-07 18:50:45] [INFO] Client 127.0.0.1:32958 disconnected
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32966 connected
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32976 connected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32966: down_1.dat, offset=3145728
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32976: down_3.dat, offset=3145728
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32986 connected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32986: down_2.dat, offset=3145728
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32996 connected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32996: down_4.dat, offset=3145728
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:33008 connected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:33008: down_5.dat, offset=3145728
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32986 finished, sent 5242880 bytes
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32986 disconnected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32966 finished, sent 5242880 bytes
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32966 disconnected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32976 finished, sent 5242880 bytes
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32976 disconnected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:32996 finished, sent 5242880 bytes
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:32996 disconnected
+[2026-04-07 18:50:47] [INFO] Download from 127.0.0.1:33008 finished, sent 5242880 bytes
+[2026-04-07 18:50:47] [INFO] Client 127.0.0.1:33008 disconnected
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33018 connected
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33024 connected
+[2026-04-07 18:50:48] [INFO] Upload from 127.0.0.1:33018: up_4.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:48] [INFO] Upload from 127.0.0.1:33024: up_1.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33038 connected
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33044 connected
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33048 connected
+[2026-04-07 18:50:48] [INFO] Upload from 127.0.0.1:33038: up_2.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:48] [INFO] Upload from 127.0.0.1:33048: up_3.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33060 connected
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33072 connected
+[2026-04-07 18:50:48] [INFO] Upload from 127.0.0.1:33044: up_5.dat, size=5242880, offset=3145728
+[2026-04-07 18:50:48] [INFO] Download from 127.0.0.1:33060: down_5.dat, offset=3145728
+[2026-04-07 18:50:48] [INFO] Download from 127.0.0.1:33072: down_2.dat, offset=3145728
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33084 connected
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33108 connected
+[2026-04-07 18:50:48] [INFO] Download from 127.0.0.1:33084: down_1.dat, offset=3145728
+[2026-04-07 18:50:48] [INFO] Client 127.0.0.1:33100 connected
+[2026-04-07 18:50:48] [INFO] Download from 127.0.0.1:33100: down_3.dat, offset=3145728
+[2026-04-07 18:50:48] [INFO] Download from 127.0.0.1:33108: down_4.dat, offset=3145728
+[2026-04-07 18:50:49] [INFO] Download from 127.0.0.1:33060 finished, sent 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33060 disconnected
+[2026-04-07 18:50:49] [INFO] Download from 127.0.0.1:33072 finished, sent 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33072 disconnected
+[2026-04-07 18:50:49] [INFO] Download from 127.0.0.1:33100 finished, sent 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33100 disconnected
+[2026-04-07 18:50:49] [INFO] Download from 127.0.0.1:33084 finished, sent 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33084 disconnected
+[2026-04-07 18:50:49] [INFO] Download from 127.0.0.1:33108 finished, sent 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33108 disconnected
+[2026-04-07 18:50:49] [INFO] Upload from 127.0.0.1:33038 finished, received 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33038 disconnected
+[2026-04-07 18:50:49] [INFO] Upload from 127.0.0.1:33048 finished, received 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33048 disconnected
+[2026-04-07 18:50:49] [INFO] Upload from 127.0.0.1:33018 finished, received 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33018 disconnected
+[2026-04-07 18:50:49] [INFO] Upload from 127.0.0.1:33024 finished, received 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33024 disconnected
+[2026-04-07 18:50:49] [INFO] Upload from 127.0.0.1:33044 finished, received 5242880 bytes
+[2026-04-07 18:50:49] [INFO] Client 127.0.0.1:33044 disconnected

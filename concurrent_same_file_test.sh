@@ -1,5 +1,5 @@
 #!/bin/bash
-# 并发上传相同文件测试（绝对路径版）
+# 并发上传相同文件测试（绝对路径）
 
 PROJECT_ROOT="$(cd "$(dirname "$0")" && pwd)"
 CLIENT="$PROJECT_ROOT/bin/client"
@@ -34,17 +34,17 @@ concurrent_upload_same() {
 
     local server_file="$PROJECT_ROOT/server_files/same_file.dat"
     if [ ! -f "$server_file" ]; then
-        echo -e "${RED}❌ 服务端未收到文件${NC}"
+        echo -e "${RED} 服务端未收到文件${NC}"
         return 1
     fi
 
     local server_size=$(stat -c%s "$server_file" 2>/dev/null || stat -f%z "$server_file" 2>/dev/null)
     local local_size=$(stat -c%s "$TEST_DIR/same_file.dat" 2>/dev/null || stat -f%z "$TEST_DIR/same_file.dat" 2>/dev/null)
     if [ "$server_size" -eq "$local_size" ] && cmp -s "$server_file" "$TEST_DIR/same_file.dat"; then
-        echo -e "${GREEN}✅ 文件锁测试通过（最终文件完整）${NC}"
+        echo -e "${GREEN} 文件锁测试通过（最终文件完整）${NC}"
         return 0
     else
-        echo -e "${RED}❌ 文件锁测试失败（文件损坏或不完整）${NC}"
+        echo -e "${RED} 文件锁测试失败（文件损坏或不完整）${NC}"
         return 1
     fi
 }

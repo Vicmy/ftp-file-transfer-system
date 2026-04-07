@@ -27,7 +27,7 @@ test_upload_resume() {
     echo "步骤1: 完整上传文件"
     $CLIENT upload "$TEST_FILE" > /dev/null 2>&1
     if [ ! -f "$SERVER_DIR/$TEST_FILE" ]; then
-        echo -e "${RED}❌ 上传失败，服务端文件不存在${NC}"
+        echo -e "${RED} 上传失败，服务端文件不存在${NC}"
         return 1
     fi
 
@@ -41,19 +41,19 @@ test_upload_resume() {
     echo "步骤3: 再次上传，期望续传"
     output=$($CLIENT upload "$TEST_FILE" 2>&1)
     if echo "$output" | grep -q "alreadly has"; then
-        echo -e "${GREEN}✅ 上传续传成功 (客户端检测到已有偏移)${NC}"
+        echo -e "${GREEN} 上传续传成功 (客户端检测到已有偏移)${NC}"
     else
-        echo -e "${RED}❌ 上传续传失败 (未检测到已有偏移)${NC}"
+        echo -e "${RED} 上传续传失败 (未检测到已有偏移)${NC}"
         return 1
     fi
 
     # 4. 校验文件完整性
     echo "步骤4: 校验最终文件"
     if cmp "$TEST_FILE" "$SERVER_DIR/$TEST_FILE"; then
-        echo -e "${GREEN}✅ 文件完整一致${NC}"
+        echo -e "${GREEN} 文件完整一致${NC}"
         return 0
     else
-        echo -e "${RED}❌ 文件不一致，续传可能出错${NC}"
+        echo -e "${RED} 文件不一致，续传可能出错${NC}"
         return 1
     fi
 }
@@ -78,19 +78,19 @@ test_download_resume() {
     echo "步骤3: 再次下载，期望续传"
     output=$($CLIENT download "$TEST_FILE" 2>&1)
     if echo "$output" | grep -q "Local file exists"; then
-        echo -e "${GREEN}✅ 下载续传成功 (客户端检测到本地已有部分)${NC}"
+        echo -e "${GREEN} 下载续传成功 (客户端检测到本地已有部分)${NC}"
     else
-        echo -e "${RED}❌ 下载续传失败 (未检测到本地已有文件)${NC}"
+        echo -e "${RED} 下载续传失败 (未检测到本地已有文件)${NC}"
         return 1
     fi
 
     # 4. 校验文件完整性
     echo "步骤4: 校验最终文件"
     if cmp "$LOCAL_COPY" "$TEST_FILE"; then
-        echo -e "${GREEN}✅ 文件完整一致${NC}"
+        echo -e "${GREEN} 文件完整一致${NC}"
         return 0
     else
-        echo -e "${RED}❌ 文件不一致，续传可能出错${NC}"
+        echo -e "${RED} 文件不一致，续传可能出错${NC}"
         return 1
     fi
 }
