@@ -1,0 +1,9 @@
+*.dat
+*.log
+test_upload/
+test_download/
+server_files/
+upload_concurrent_test/
+download_concurrent_test/
+mixed_test_files/
+same_file_test/
